@@ -415,7 +415,11 @@ author_profile: true
 
 1. 西田京介, 田中涼太, "[人のように文書を視覚的に読み解き質問に応答する視覚的機械読解技術](https://www.bcm.co.jp/site/2022/08/hil/2208-hil-01-04.pdf)", ビジネスコミュニケーション誌,, 2022年8月
 
+1. Kyosuke Nishida, Takeshi Kurashima, Noboru Miyazaki, Hiroyuki Toda, and Shuichi Nishioka, "[Thought-processing Technology for Understanding, Reproducing, and Extending Human Thinking Ability](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202112fa2.pdf&mode=show_pdf)", NTT Technical Journal, Vol.19, No.12, December 2021
+
 1. 西田京介, 倉島健, 宮崎昇, 戸田浩之, 西岡秀一, "[人の思考力を理解・再現・拡張するための思考処理技術](https://journal.ntt.co.jp/wp-content/uploads/2021/10/nttjnl5102_20211001.pdf)",  NTT技術ジャーナル Vol.32, No.10, 2021年10月.
+
+1. Kyosuke Nishida, Kuniko Saito, Tetsuo Amakasu, Kazuyuki Iso, and Shuichi Nishioka, "[Knowledge and Language-processing Technology that Supports and Substitutes Customer-contact Work](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202012fa9.pdf&mode=show_pdf)", NTT Technical Journal, Vol.18, No.12, December 2020.
 
 1. 西田京介, 齋藤邦子, 甘粕哲郎, 磯和之, 西岡秀一, "[顧客接点業務を支援・代替する知識・ 言語処理技術](https://journal.ntt.co.jp/wp-content/uploads/2020/10/JN202010069.pdf)",  NTT技術ジャーナル Vol.32, No.10, 2020年10月.
 
@@ -426,6 +430,8 @@ author_profile: true
 1. NTTコミュニケーションズ株式会社, "[AIで自然な要約文を作成する「COTOHA Summarize」の提供を開始～世界最高水準の精度で、日本語・英語の文章を指定した長さに要約可能～](https://www.ntt.com/about-us/press-releases/news/article/2020/0423.html)", ニュースリリース, 2020年4月
 
 1. 日経コンピュータ, "遂に読解力も人超え「BERT革命」の衝撃"，コメント掲載,  2019年12月12日号, 2019年12月．
+
+1. Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Kosuke Nishida, Narichika Nomoto, and Hisako Asano, "[Toward Natural Language Understanding by Machine Reading Comprehension](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201909fa3.pdf&mode=show_pdf)",  NTT Technical Journal, Vol.17, No.9, September 2019.
 
 1. 西田京介, 斉藤いつみ, 大塚淳史, 西田光甫, 野本済央, 浅野久子, "[機械読解による自然言語理解への挑戦](https://journal.ntt.co.jp/wp-content/uploads/2020/06/JN20190712.pdf)", NTT技術ジャーナル Vol.31, No.7, 2019年7月. 
 
@@ -438,6 +444,8 @@ author_profile: true
 1. 日経産業新聞, "応答の根拠 提示するAI", 新聞掲載, 2019年4月1日.
 
 1. ビジネスコミュニケーション誌,”＜機械読解技術＞文書と質問の「意味」を理解することで多数の文書から回答を高速・高精度に抽出", 雑誌掲載, 2018年9月.
+
+1. Hisako Asano, Katsuji Bessho, Kugatsu Sadamitsu, Kyosuke Nishida, and Kuniko Saito, "[Natural Language Processing Technology for Agent Services](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa3.pdf&mode=show_pdf)", NTT Technical Journal, Vol.15, No.8, August 2017.
 
 1. 浅野久子, 別所克人, 貞光九月, 西田京介, 斉藤邦子, "[エージェントサービスを実現する自然言語処理技術](https://journal.ntt.co.jp/backnumber2/1706/files/JN20170616.pdf)", NTT技術ジャーナル Vol.29, No.6, 2017年6月. 
 
