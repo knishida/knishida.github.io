@@ -4,6 +4,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Publications(和文)"
+    url: /publications_ja/
+    
   - title: "Talks"
     url: /talks/    
 
