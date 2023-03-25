@@ -7,41 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* March 19, 2002: Associate of Engineering, at the Department of Computer Science and Engineering, Tomakomai National College of Technology.
+  * Graduation thesis: Strategy Acquisition for Games based on Reinforcement Learning (in Japanese)
+* March 25, 2004: Bachelor of Engineering, in the field of Information Engineering, at the Faculty of Engineering, Hokkaido University.
+  * Undergraduate thesis: An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks (in Japanese)
+* March 24, 2006: Master of Information Science and Technology, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University.
+  * Master thesis: Adaptive Classifiers-Ensemble System for Supervised Online Learning in Concept-Drifting Environments
+* March 25, 2008: Doctor of Philosopy, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University.
+  * Dissertation: Learning and Detecting Concept Drift
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 1, 2006 - March 31, 2008
+  * Research Fellow of the Japan Society for the Promotion of Science (DC1, Hokkaido University).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 1, 2008 - March 31, 2009
+  * Research Fellow of the Japan Society for the Promotion of Science (PD, Hokkaido University).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* April 1, 2009 - present: NTT Corporation.
   
+  * April 1 2009 - : NTT Cyber Solution Laboratories.
+  * July 1 2012 - NTT Service Evolution Laboratories.
+  * February 1, 2013 - NTT Resonant Inc.
+  * April 1 2015 - NTT Service Evolution Laboratories.
+  * November 1, 2015 - : NTT Media Intelligence Laboratories
+  * July 1, 2021-: NTT Human Informatics Laboratories
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -50,10 +43,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+1. September 2019-present: Part-time Lecturer, at Faculty of Science and Engineering, Hosei University, Japan.
+
+1. April 11, 2007 - September 28, 2007: Part-time Lecturer (Special Lecture in Information Science), at Department of Computer Science and Engineering, Tomakomai National Colledge of Technology, Tomakomai, Japan.
+
 Competitions / Leaderboards
 ======
 
