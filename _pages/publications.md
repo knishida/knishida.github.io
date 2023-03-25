@@ -31,7 +31,7 @@ author_profile: true
 
 1. 大塚淳史, 西田京介, 斉藤いつみ, 浅野久子, 富田準二, "[質問の意図を特定するニューラル質問生成モデル](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_18_16/)", 日本データベース学会和文論文誌, Vol. 17-J, No. 6, March 2019.  **2018年度日本データベース学会論文賞**
 
-1. 西田京介, 井島勇祐, 田良島周平, "[エンドツーエンド深層学習のフロンティア:(https://www.journal.ieice.org/summary.php?id=k101_9_920&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.9, pp. 920-925, August 2018.
+1. 西田京介, 井島勇祐, 田良島周平, "[エンドツーエンド深層学習のフロンティア](https://www.journal.ieice.org/summary.php?id=k101_9_920&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.9, pp. 920-925, August 2018.
 
 1. 西田京介, 斉藤いつみ, "[深層学習におけるアテンション技術の最新動向](https://www.journal.ieice.org/summary.php?id=k101_6_591&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.6, pp. 591-596, June 2018.
 
