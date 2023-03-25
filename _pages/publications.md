@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 国際会議論文
+## International Conference Papers / 国際会議論文
 
 1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), accepted, May 2023. [arxiv]
 
@@ -101,7 +101,7 @@ author_profile: true
 
 1. Koichiro Yamauchi, Ryuji Oshima, Kyosuke Nishida, and Takashi Omori, "Quick Variable Selection and Learning with Gamble", in Proceedings of the second International Symposium on Emergent Mechanisms of Communication in the Brain (IEMC 2004), p. 70, Awaji, Japan, March 2004
 
-## 国際論文誌
+## International Journal Papers / 国際論文誌
 
 1. Yuki Saito, Taiki Nakamura, Yusuke Ijima, Kyosuke Nishida, Shinnosuke Takamichi, "[Non-parallel and many-to-many voice conversion using variational autoencoders integrating speech recognition and speaker verification](https://doi.org/10.1250/ast.42.1)", Acoustical Science and Technology, Vol. 42, No. 1, pp. 1-11, January 2021.
 
@@ -115,7 +115,7 @@ author_profile: true
 
 1. Kyosuke Nishida, Koichiro Yamauchi, and Takashi Omori, "[An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks](https://doi.org/10.1002/scj.20507)," Systems and Computers in Japan, Vol. 37, No. 11, pp. 11-21, October 2006. 
 
-## 国内論文誌
+## Japanese Journal Papaers / 国内論文誌
 
 1. 鈴木潤, 松田耕史, 鈴木正敏, 加藤拓真, 宮脇峻平, 西田京介,  "[ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」](https://doi.org/10.5715/jnlp.28.888)", 自然言語処理,  2021 年 28 巻 3 号 p. 888-894, September 2021.
 
@@ -155,7 +155,7 @@ author_profile: true
 
 1. 西田京介, 山内康一郎, 大森隆司, "[Minimal Hyper Basis Function Networksを用いた次元選択付オンライン学習法](https://search.ieice.org/bin/summary.php?id=j88-d2_3_459&category=D&lang=J&year=2005&abst=)", 電子情報通信学会論文誌 D-II, Vol. J88-D-II, No. 3, pp. 459-468, March 2005.
 
-## 国内会議発表
+## Japanese Conference Papers / 国内会議論文
 
 1. 田中涼太, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子, "SlideVQA: 複数の文書画像に対する質問応答", 言語処理学会第29回年次大会（NLP2023）, A11-4, March 2023. **優秀賞 (上位13/579件)**, **言語資源賞 (2/97件)**
 
@@ -307,7 +307,7 @@ author_profile: true
 
 1. 西田京介, 山内康一郎, "Minimal Hyper Basis Function Networksを用いた逐次学習法," 日本神経回路学会第13回全国大会講演論文集, pp. 226-227, September 2003.
 
-## 特許
+## Japanese Patents / 国内特許
 
 1. 6881267 (令03.5.10) 伊藤弘章 、入江豪 、西田京介 、神山歩相名：制御装置、変換装置、制御方法、変換方法、およびプログラム
 
@@ -443,7 +443,7 @@ author_profile: true
 
 1. Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita, "Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension", arXiv, 1808.10628, August 2018.
 
-## その他
+## Others / その他
 
 1. 西田京介, 田中涼太, "[人のように文書を視覚的に読み解き質問に応答する視覚的機械読解技術](https://www.bcm.co.jp/site/2022/08/hil/2208-hil-01-04.pdf)", ビジネスコミュニケーション誌,, 2022年8月
 
