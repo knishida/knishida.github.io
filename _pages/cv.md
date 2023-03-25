@@ -54,6 +54,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Competitions / Leaderboards
 ======
-* Currently signed in to 43 different slack teams
+
+1. NTT Media Intelligence Laboratories  (Ryota Tanaka and Kyosuke Nishida), ICDAR 2021 Competition On Document Visual Question Answering (DocVQA), Infographics VQA Task, runners-up (Rank 2,  Apr. 9, 2021)
+
+1. NTT Media Intelligence Labs (Yasuhito Ohsugi, Itsumi Saito, and Kyosuke Nishida), QuAC (Question Answering in Context), Rank 1 (Mar. 7, 2019)
+
+1. NTT Media Intelligence Laboratories (Kosuke Nishida and Kyosuke Nishida), HotpotQA (A Dataset for Diverse, Explainable Multi-hop Question Answering), Distractor setting: Rank 1 (Nov. 21, 2018), Fullwiki setting: Rank 1 (Nov. 21, 2018) 
+
+1. NTT Media Intelligence Laboratories (Kyosuke Nishida), MS MARCO (Microsoft MAchine Reading COmprehension Dataset) 2.1, Q&A Task: Rank 1 (Jan. 3, 2019), Q&A + Natural Langauge Generation Task: Rank 1 (Sep. 17, 2018, Dec. 14, 2018, Jan. 3, 2019) 
