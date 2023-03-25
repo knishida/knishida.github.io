@@ -5,7 +5,6 @@ permalink: /patents/
 author_profile: true
 ---
 
-## Patents
 
 1. 6881267 (令03.5.10) 伊藤弘章 、入江豪 、西田京介 、神山歩相名：制御装置、変換装置、制御方法、変換方法、およびプログラム
 
