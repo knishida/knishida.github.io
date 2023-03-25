@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## International Conference Papers / 国際会議論文
+## International Conference Papers
 
 1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), accepted, May 2023. [arxiv]
 
@@ -101,7 +101,7 @@ author_profile: true
 
 1. Koichiro Yamauchi, Ryuji Oshima, Kyosuke Nishida, and Takashi Omori, "Quick Variable Selection and Learning with Gamble", in Proceedings of the second International Symposium on Emergent Mechanisms of Communication in the Brain (IEMC 2004), p. 70, Awaji, Japan, March 2004
 
-## International Journal Papers / 国際論文誌
+## International Journal Papers
 
 1. Yuki Saito, Taiki Nakamura, Yusuke Ijima, Kyosuke Nishida, Shinnosuke Takamichi, "[Non-parallel and many-to-many voice conversion using variational autoencoders integrating speech recognition and speaker verification](https://doi.org/10.1250/ast.42.1)", Acoustical Science and Technology, Vol. 42, No. 1, pp. 1-11, January 2021.
 
@@ -115,47 +115,7 @@ author_profile: true
 
 1. Kyosuke Nishida, Koichiro Yamauchi, and Takashi Omori, "[An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks](https://doi.org/10.1002/scj.20507)," Systems and Computers in Japan, Vol. 37, No. 11, pp. 11-21, October 2006. 
 
-## Japanese Journal Papaers / 国内論文誌
-
-1. 鈴木潤, 松田耕史, 鈴木正敏, 加藤拓真, 宮脇峻平, 西田京介,  "[ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」](https://doi.org/10.5715/jnlp.28.888)", 自然言語処理,  2021 年 28 巻 3 号 p. 888-894, September 2021.
-
-1. 西田京介,  "[身近になった対話システム：2．機械読解による自然言語理解](https://doi.org/10.20729/00212778)", 情報処理, 62(10), e7-e11, September 2021.
-
-1. 大塚淳史, 西田京介, 斉藤いつみ, 西田光甫, 浅野久子, 富田準二 ,"[問い返し可能な質問応答：読解と質問生成の同時学習モデル](https://dbsj.org/wp-content/uploads/2020/02/DBSJ_18_16_otsuka.pdf)", 日本データベース学会和文論文誌, Vol. 18-J, No. 16, March 2020.  
-
-1. 大塚淳史, 西田京介, 斉藤いつみ, 浅野久子, 富田準二, 佐藤哲司 ,"[質問意図の明確化に着目した機械読解による質問応答手法の提案](https://doi.org/10.1527/tjsai.A-J14)", 人工知能学会論文誌, Vol. 34, No. 5, p. A-J14_1-12, September 2019.
-
-1. 大塚淳史, 西田京介, 斉藤いつみ, 浅野久子, 富田準二, "[質問の意図を特定するニューラル質問生成モデル](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_18_16/)", 日本データベース学会和文論文誌, Vol. 17-J, No. 6, March 2019.  **2018年度日本データベース学会論文賞**
-
-1. 西田京介, 井島勇祐, 田良島周平, "[エンドツーエンド深層学習のフロンティア](https://www.journal.ieice.org/summary.php?id=k101_9_920&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.9, pp. 920-925, August 2018.
-
-1. 西田京介, 斉藤いつみ, "[深層学習におけるアテンション技術の最新動向](https://www.journal.ieice.org/summary.php?id=k101_6_591&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.6, pp. 591-596, June 2018.
-
-1. 西田京介, 貞光九月, 東中竜一郎, 松尾義博, "[TabNet: 表の意味構造を理解するハイブリッド型深層ニューラルネットワーク](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_16/)", 日本データベース学会和文論文誌, Vol. 16, No.16, pp. 1-8, March 2018.
-
-1. 大塚淳史, 別所克人, 西田京介, 浅野久子, 松尾義博, "[ニューラル翻訳モデルを用いた回答文書検索のための拡張クエリ生成手法](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_04/)", 日本データベース学会和文論文誌, Vol. 16, No.4, pp. 1-8, March 2018.
-
-1. 瀧本祥章, 西田京介, 遠藤結城, 戸田浩之, 澤田宏, 石川佳治, "[時間帯を考慮したパーソナライズ目的地予測](https://doi.org/10.14923/transinfj.2016DET0003)", 電子情報通信学会論文誌 D, Vol. J100-D, No. 4, pp. 472-484, April 2017．
-
-1. 蔵内雄貴, 西田京介, 川中翔, 星出高秀，内山匡, "[ベンフォードの法則を応用したbotアカウント検出](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_19_24/)" 日本データベース学会論文誌, Vol. 12, No. 1, pp.19-24, June 2013.
-
-1. 伊藤淳, 西田京介, 星出高秀, 戸田浩之, 内山匡, "[Twitter とBlog の共通ユーザおよび会話ユーザの同類性に着目したTwitter ユーザ属性推定](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_31_36/)", 日本データベース学会論文誌, Vol. 12, No. 1, pp.31-36, June 2013.
-
-1. 西田京介, 星出高秀, 藤村考, 内山匡, "階層的オートタギング技術とその応用," 情報処理学会論文誌：データベース, Vol. 6, No. 1, pp. 29-40, January 2013.
-
-1. 西田京介, 坂野遼平, 藤村考, 星出高秀, "[データ圧縮によるツイート話題分類](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_10_no_1_1_6/)," 日本データベース学会論文誌, Vol. 10, No. 1, pp. 1-6, June 2011.
-
-1. 西田京介, 藤村考, "[階層的オートタギングによるQ&Aコミュニティの知識整理](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_9_no_1_47_52/)", 日本データベース学会論文誌, Vol. 9, No. 1, pp. 47-52, June 2010.
-
-1. 西田京介, " [Concept Driftの学習と検出に関する研究 (学習と発見, <特集>人工知能分野における博士論文)](https://cir.nii.ac.jp/crid/1390848647557114240)", 人工知能学会誌, Vol. 24, No. 1, p. 111, January 2009
-
-1. 鳴海建太, 西田京介, 山内康一郎, "[統計的手法と事例ベース手法を併用したスパムフィルタリング](https://search.ieice.org/bin/summary.php?id=j91-d_11_2569&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 11, pp. 2569-2578, November 2008.
-
-1. 西田京介, 島田章平, 石川悟, 山内康一郎, "[人間行動に着想を得た突然かつ重大な学習対象変化の検出法](https://search.ieice.org/bin/summary.php?id=j91-d_1_51&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 1, pp. 51-64, January 2008.
-
-1. 西田京介, 山内康一郎, 大森隆司, "[Minimal Hyper Basis Function Networksを用いた次元選択付オンライン学習法](https://search.ieice.org/bin/summary.php?id=j88-d2_3_459&category=D&lang=J&year=2005&abst=)", 電子情報通信学会論文誌 D-II, Vol. J88-D-II, No. 3, pp. 459-468, March 2005.
-
-## Japanese Conference Papers / 国内会議論文
+## Japanese Conference Papers
 
 1. 田中涼太, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子, "SlideVQA: 複数の文書画像に対する質問応答", 言語処理学会第29回年次大会（NLP2023）, A11-4, March 2023. **優秀賞 (上位13/579件)**, **言語資源賞 (2/97件)**
 
@@ -307,7 +267,48 @@ author_profile: true
 
 1. 西田京介, 山内康一郎, "Minimal Hyper Basis Function Networksを用いた逐次学習法," 日本神経回路学会第13回全国大会講演論文集, pp. 226-227, September 2003.
 
-## Japanese Patents / 国内特許
+
+## Japanese Journal Papaers
+
+1. 鈴木潤, 松田耕史, 鈴木正敏, 加藤拓真, 宮脇峻平, 西田京介,  "[ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」](https://doi.org/10.5715/jnlp.28.888)", 自然言語処理,  2021 年 28 巻 3 号 p. 888-894, September 2021.
+
+1. 西田京介,  "[身近になった対話システム：2．機械読解による自然言語理解](https://doi.org/10.20729/00212778)", 情報処理, 62(10), e7-e11, September 2021.
+
+1. 大塚淳史, 西田京介, 斉藤いつみ, 西田光甫, 浅野久子, 富田準二 ,"[問い返し可能な質問応答：読解と質問生成の同時学習モデル](https://dbsj.org/wp-content/uploads/2020/02/DBSJ_18_16_otsuka.pdf)", 日本データベース学会和文論文誌, Vol. 18-J, No. 16, March 2020.  
+
+1. 大塚淳史, 西田京介, 斉藤いつみ, 浅野久子, 富田準二, 佐藤哲司 ,"[質問意図の明確化に着目した機械読解による質問応答手法の提案](https://doi.org/10.1527/tjsai.A-J14)", 人工知能学会論文誌, Vol. 34, No. 5, p. A-J14_1-12, September 2019.
+
+1. 大塚淳史, 西田京介, 斉藤いつみ, 浅野久子, 富田準二, "[質問の意図を特定するニューラル質問生成モデル](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_18_16/)", 日本データベース学会和文論文誌, Vol. 17-J, No. 6, March 2019.  **2018年度日本データベース学会論文賞**
+
+1. 西田京介, 井島勇祐, 田良島周平, "[エンドツーエンド深層学習のフロンティア](https://www.journal.ieice.org/summary.php?id=k101_9_920&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.9, pp. 920-925, August 2018.
+
+1. 西田京介, 斉藤いつみ, "[深層学習におけるアテンション技術の最新動向](https://www.journal.ieice.org/summary.php?id=k101_6_591&year=2018&lang=J)", 電子情報通信学会誌, Vol.101, No.6, pp. 591-596, June 2018.
+
+1. 西田京介, 貞光九月, 東中竜一郎, 松尾義博, "[TabNet: 表の意味構造を理解するハイブリッド型深層ニューラルネットワーク](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_16/)", 日本データベース学会和文論文誌, Vol. 16, No.16, pp. 1-8, March 2018.
+
+1. 大塚淳史, 別所克人, 西田京介, 浅野久子, 松尾義博, "[ニューラル翻訳モデルを用いた回答文書検索のための拡張クエリ生成手法](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_04/)", 日本データベース学会和文論文誌, Vol. 16, No.4, pp. 1-8, March 2018.
+
+1. 瀧本祥章, 西田京介, 遠藤結城, 戸田浩之, 澤田宏, 石川佳治, "[時間帯を考慮したパーソナライズ目的地予測](https://doi.org/10.14923/transinfj.2016DET0003)", 電子情報通信学会論文誌 D, Vol. J100-D, No. 4, pp. 472-484, April 2017．
+
+1. 蔵内雄貴, 西田京介, 川中翔, 星出高秀，内山匡, "[ベンフォードの法則を応用したbotアカウント検出](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_19_24/)" 日本データベース学会論文誌, Vol. 12, No. 1, pp.19-24, June 2013.
+
+1. 伊藤淳, 西田京介, 星出高秀, 戸田浩之, 内山匡, "[Twitter とBlog の共通ユーザおよび会話ユーザの同類性に着目したTwitter ユーザ属性推定](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_31_36/)", 日本データベース学会論文誌, Vol. 12, No. 1, pp.31-36, June 2013.
+
+1. 西田京介, 星出高秀, 藤村考, 内山匡, "階層的オートタギング技術とその応用," 情報処理学会論文誌：データベース, Vol. 6, No. 1, pp. 29-40, January 2013.
+
+1. 西田京介, 坂野遼平, 藤村考, 星出高秀, "[データ圧縮によるツイート話題分類](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_10_no_1_1_6/)," 日本データベース学会論文誌, Vol. 10, No. 1, pp. 1-6, June 2011.
+
+1. 西田京介, 藤村考, "[階層的オートタギングによるQ&Aコミュニティの知識整理](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_9_no_1_47_52/)", 日本データベース学会論文誌, Vol. 9, No. 1, pp. 47-52, June 2010.
+
+1. 西田京介, " [Concept Driftの学習と検出に関する研究 (学習と発見, <特集>人工知能分野における博士論文)](https://cir.nii.ac.jp/crid/1390848647557114240)", 人工知能学会誌, Vol. 24, No. 1, p. 111, January 2009
+
+1. 鳴海建太, 西田京介, 山内康一郎, "[統計的手法と事例ベース手法を併用したスパムフィルタリング](https://search.ieice.org/bin/summary.php?id=j91-d_11_2569&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 11, pp. 2569-2578, November 2008.
+
+1. 西田京介, 島田章平, 石川悟, 山内康一郎, "[人間行動に着想を得た突然かつ重大な学習対象変化の検出法](https://search.ieice.org/bin/summary.php?id=j91-d_1_51&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 1, pp. 51-64, January 2008.
+
+1. 西田京介, 山内康一郎, 大森隆司, "[Minimal Hyper Basis Function Networksを用いた次元選択付オンライン学習法](https://search.ieice.org/bin/summary.php?id=j88-d2_3_459&category=D&lang=J&year=2005&abst=)", 電子情報通信学会論文誌 D-II, Vol. J88-D-II, No. 3, pp. 459-468, March 2005.
+
+## Patents
 
 1. 6881267 (令03.5.10) 伊藤弘章 、入江豪 、西田京介 、神山歩相名：制御装置、変換装置、制御方法、変換方法、およびプログラム
 
@@ -443,7 +444,7 @@ author_profile: true
 
 1. Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita, "Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension", arXiv, 1808.10628, August 2018.
 
-## Others / その他
+## Others
 
 1. 西田京介, 田中涼太, "[人のように文書を視覚的に読み解き質問に応答する視覚的機械読解技術](https://www.bcm.co.jp/site/2022/08/hil/2208-hil-01-04.pdf)", ビジネスコミュニケーション誌,, 2022年8月
 
