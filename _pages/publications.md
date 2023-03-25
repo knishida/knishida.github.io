@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 国際論文誌
+
+1. Yuki Saito, Taiki Nakamura, Yusuke Ijima, Kyosuke Nishida, Shinnosuke Takamichi, "[Non-parallel and many-to-many voice conversion using variational autoencoders integrating speech recognition and speaker verification](https://doi.org/10.1250/ast.42.1)", Acoustical Science and Technology, Vol. 42, No. 1, pp. 1-11, January 2021.
+
+1. Jun Suzuki, Yoshihiko Suhara, Hiroyuki Toda, Kyosuke Nishida, "[Personalized Visited-POI Assignment to Individual Raw GPS Trajectories](https://doi.org/10.1145/3317667)", ACM Transactions on Spatial Algorithms and Systems, Volume 5 Issue 3, Article No. 16, September 2019.
+
+1. Takuya Nishimura, Kyosuke Nishida, Hiroyuki Toda, and Hiroshi Sawada, "[Social Media Knows What Road It Is: Quantifying Road Characteristics with Geotagged Posts](https://doi.org/10.1007/s13278-017-0473-y)", Social Network Analysis and Mining, Vol. 7, No. 1, pp. 57:1-57:20, November 2017.
+
+1. Yuki Endo, Hiroyuki Toda, Kyosuke Nishida, and Jotaro Ikedo, "[Classifying Spatial Trajectories Using Representation Learning](https://doi.org/10.1007/s41060-016-0014-1)," International Journal of Data Science and Analytics, pp.1-11, December 2016.
+
+1. Jun Ito, Kyosuke Nishida, Takahide Hoshide, Hiroyuki Toda, and Tadasu Uchiyama, "[[Demographic and Psychographic Estimation of Twitter Users Using Social Structures]](https://doi.org/10.1007/978-3-319-13590-8_2)," Online Social Media Analysis and Visualization, Lecture Notes in Social Netowrks, pp. 27-46, January 2015.
+
+1. Kyosuke Nishida, Koichiro Yamauchi, and Takashi Omori, "[An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks](https://doi.org/10.1002/scj.20507)," Systems and Computers in Japan, Vol. 37, No. 11, pp. 11-21, October 2006. 
+
 ## 国内論文誌
 
 1. 鈴木潤, 松田耕史, 鈴木正敏, 加藤拓真, 宮脇峻平, 西田京介,  "ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」", 自然言語処理,  2021 年 28 巻 3 号 p. 888-894, September 2021.
