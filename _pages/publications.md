@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](https://scholar.google.com/citations?user=sNCGB6UAAAAJ), [ACM](https://dl.acm.org/profile/81337492067), [ACL](https://aclanthology.org/people/kyosuke-nishida), [arXiv](https://arxiv.org/search/?query=Nishida%2C+Kyosuke&searchtype=author&abstracts=show&order=-announced_date_first&size=50), [Semantic Scholar](https://www.semanticscholar.org/author/Kyosuke-Nishida/2963420), [ORCID](https://orcid.org/0000-0002-8443-0651)
+
 ## International Conference Papers
 
 1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), accepted, May 2023. [arxiv]
