@@ -111,3 +111,16 @@ Competitions / Leaderboards
 * MS MARCO (Microsoft MAchine Reading COmprehension Dataset) 2.1
   * NTT Media Intelligence Laboratories (Kyosuke Nishida)
   * Q&A Task: Rank 1 (Jan. 3, 2019), Q&A + Natural Langauge Generation Task: Rank 1 (Sep. 17, 2018, Dec. 14, 2018, Jan. 3, 2019) 
+
+Academic experience
+=====
+* 2012年4月1日～2016年3月31日: 情報処理学会データベースシステム研究運営委員会 運営委員
+* 2014年:  LODチャレンジ運営委員
+* 2015年6月〜2016年4月: 電子情報学会「Special Section on Cyberworlds」英文論文誌小特集 編集委員
+* 2016年4月1日～2018年3月31日: 情報処理学会 会誌編集委員
+* 2017年4月1日～2019年3月31日: 情報処理学会データベースシステム研究運営委員会 運営委員
+* 2017年10月1日～: 情報処理学会シニア会員
+* 2018年3月〜2022年4月: 電子情報学会「Special Section on Data Engineering and Information Management」英文論文誌小特集 編集委員
+* 2019年4月1日～2023年3月31日: 情報処理学会自然言語処理研究運営委員会 運営委員
+* 2021年9月1日～2023年9月30日: 言語処理学会 会誌「自然言語処理」編集委員
+* 2022年4月1日〜2024年3月31日: 情報処理学会論文誌データベース(TOD)編集委員会
