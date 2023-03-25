@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
+
 1. 2023年3月 言語処理学会第29回年次大会(NLP2023) 優秀賞
 1. 2023年3月 言語処理学会第29回年次大会(NLP2023) 言語資源賞
 1. 2023年3月 言語処理学会第29回年次大会(NLP2023) 委員特別賞
