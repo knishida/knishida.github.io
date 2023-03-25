@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. 西田京介, 西田光甫, 田中涼太, 斉藤いつみ, "NLPとVision-and-Languageの基礎・最新動向",  第15回データ工学と情報マネジメントに関するフォーラム チュートリアル, 2023年3月．
+1. 西田京介, 西田光甫, 田中涼太, 斉藤いつみ, "NLPとVision-and-Languageの基礎・最新動向",  第15回データ工学と情報マネジメントに関するフォーラム チュートリアル, 2023年3月．[slides:part1](https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp) [slides:part2](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
 
 1. 西田京介, "自然言語処理とVision-and-Languageの最新動向",  東北大学主催 第9回 医学AIセミナー 特別レクチャー, 2023年2月．
 
@@ -13,7 +13,7 @@ author_profile: true
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2022年10月.
 
-1. 西田京介, "自然言語処理とVision-and-Language",  2022年度 人工知能学会全国大会（第36回）, 2022年6月．
+1. 西田京介, "自然言語処理とVision-and-Language",  2022年度 人工知能学会全国大会（第36回）, 2022年6月．[slides](https://speakerdeck.com/kyoun/a-tutorial-on-nlp-and-vision-and-language)
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2021年10月.
 
@@ -21,7 +21,7 @@ author_profile: true
 
 1. 西田京介, "人とAIの共生に向けた視覚と言語の融合理解",  NVIDIA AI DAYS, 2021年6月.
 
-1. 西田京介, "言語と視覚に基づく質問応答の最新動向",  言語処理学会第27回年次大会ワークショップ AI王 〜クイズAI日本一決定戦〜, 2021年3月.
+1. 西田京介, "言語と視覚に基づく質問応答の最新動向",  言語処理学会第27回年次大会ワークショップ AI王 〜クイズAI日本一決定戦〜, 2021年3月. [slides](https://speakerdeck.com/kyoun/recent-trends-in-vision-and-language-studies-for-qa)
 
 1. 西田京介, "自然言語処理とビジョン＆ランゲージへの派生", 日本ロボット学会 ロボット学会セミナー第132回, 2021年2月.
 
@@ -37,7 +37,7 @@ author_profile: true
 
 1. 西田京介, "自然言語生成による機械読解", WebDB Forum 2019 先端研究解説セッション, 2019年9月.
 
-1. 西田京介, "機械読解の現状と展望", 言語処理学会第25回年次大会 チュートリアル, 2019年3月.
+1. 西田京介, "機械読解の現状と展望", 言語処理学会第25回年次大会 チュートリアル, 2019年3月. [slides](https://speakerdeck.com/kyoun/a-talk-on-machine-reading-comprehension-nlp2019)
 
 1. 西田京介, "機械読解技術の最新動向と実用化へ向けた展望", 東北大学乾・鈴木研究室 みちのく情報伝達学セミナー, 2019年1月.
 
