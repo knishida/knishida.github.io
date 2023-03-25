@@ -37,19 +37,19 @@ author_profile: true
 
 1. 西田京介, 貞光九月, 東中竜一郎, 松尾義博, "[TabNet: 表の意味構造を理解するハイブリッド型深層ニューラルネットワーク](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_16/)", 日本データベース学会和文論文誌, Vol. 16, No.16, pp. 1-8, March 2018.
 
-1. 大塚淳史, 別所克人, 西田京介, 浅野久子, 松尾義博, "[ニューラル翻訳モデルを用いた回答文書検索のための拡張クエリ生成手法](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_4/)", 日本データベース学会和文論文誌, Vol. 16, No.4, pp. 1-8, March 2018.
+1. 大塚淳史, 別所克人, 西田京介, 浅野久子, 松尾義博, "[ニューラル翻訳モデルを用いた回答文書検索のための拡張クエリ生成手法](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_04/)", 日本データベース学会和文論文誌, Vol. 16, No.4, pp. 1-8, March 2018.
 
 1. 瀧本祥章, 西田京介, 遠藤結城, 戸田浩之, 澤田宏, 石川佳治, "時間帯を考慮したパーソナライズ目的地予測", 電子情報通信学会論文誌 D, Vol. J100-D, No. 4, pp. 472-484, April 2017．
 
-1. 蔵内雄貴, 西田京介, 川中翔, 星出高秀，内山匡, "[ベンフォードの法則を応用したbotアカウント検出](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_12_1/)" 日本データベース学会論文誌, Vol. 12, No. 1, pp.19-24, June 2013.
+1. 蔵内雄貴, 西田京介, 川中翔, 星出高秀，内山匡, "[ベンフォードの法則を応用したbotアカウント検出](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_19_24/)" 日本データベース学会論文誌, Vol. 12, No. 1, pp.19-24, June 2013.
 
-1. 伊藤淳, 西田京介, 星出高秀, 戸田浩之, 内山匡, "[Twitter とBlog の共通ユーザおよび会話ユーザの同類性に着目したTwitter ユーザ属性推定](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_12_1/)", 日本データベース学会論文誌, Vol. 12, No. 1, pp.31-36, June 2013.
+1. 伊藤淳, 西田京介, 星出高秀, 戸田浩之, 内山匡, "[Twitter とBlog の共通ユーザおよび会話ユーザの同類性に着目したTwitter ユーザ属性推定](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_31_36/)", 日本データベース学会論文誌, Vol. 12, No. 1, pp.31-36, June 2013.
 
 1. 西田京介, 星出高秀, 藤村考, 内山匡, "階層的オートタギング技術とその応用," 情報処理学会論文誌：データベース, Vol. 6, No. 1, pp. 29-40, January 2013.
 
-1. 西田京介, 坂野遼平, 藤村考, 星出高秀, "[データ圧縮によるツイート話題分類](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_10_1/)," 日本データベース学会論文誌, Vol. 10, No. 1, pp. 1-6, June 2011.
+1. 西田京介, 坂野遼平, 藤村考, 星出高秀, "[データ圧縮によるツイート話題分類](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_10_no_1_1_6/)," 日本データベース学会論文誌, Vol. 10, No. 1, pp. 1-6, June 2011.
 
-1. 西田京介, 藤村考, "[階層的オートタギングによるQ&Aコミュニティの知識整理](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_9_1/)", 日本データベース学会論文誌, Vol. 9, No. 1, pp. 47-52, June 2010.
+1. 西田京介, 藤村考, "[階層的オートタギングによるQ&Aコミュニティの知識整理](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_9_no_1_47_52/)", 日本データベース学会論文誌, Vol. 9, No. 1, pp. 47-52, June 2010.
 
 1. 西田京介, "Concept Driftの学習と検出に関する研究 (学習と発見, <特集>人工知能分野における博士論文)," 人工知能学会誌, Vol. 24, No. 1, p. 111, January 2009
 
