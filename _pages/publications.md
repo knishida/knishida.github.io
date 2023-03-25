@@ -411,6 +411,38 @@ author_profile: true
 
 1. 5350319 (平25.8.30) 甲谷優、藤村考、西田京介：友人推薦装置及び方法及びプログラム
 
+## Preprints
+
+1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images", arXiv, 2301.04883, January 2023.
+
+1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", arXiv, 2210.07523, October 2022.
+
+1. Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka, "Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions", arXiv, 2207.03133, July 2022.
+
+1. Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Sen Yoshida, "Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction", arXiv, 2111.09029, November 2021.
+
+1. Kosuke Nishida, Kyosuke Nishida, Sen Yoshida, "Task-adaptive Pre-training of Language Models with Word Embedding Regularization", arXiv, 2109.08354, September 2021.
+
+1. Ryota Tanaka(\*), Kyosuke Nishida(\*), Sen Yoshida, "VisualMRC: Machine Reading Comprehension on Document Images", arXiv, 2101.11272, Jan 2021. (*: equal contributions)
+
+1. Yuma Koizumi, Ryo Masumura, Kyosuke Nishida, Masahiro Yasuda, Shoichiro Saito, "A Transformer-based Audio Captioning Model with Keyword Estimation", arXiv, 2007.00222, July 2020.
+
+1. Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Junji Tomita, "Abstractive Summarization with Combination of Pre-trained Sequence-to-Sequence and Saliency Models", arXiv, 2003.13028, March 2020.
+
+1. Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Atsushi Otsuka, Hisako Asano, Junji Tomita, Hiroyuki Shindo, Yuji Matsumoto, "Length-controllable Abstractive Summarization by Guiding with Summary Prototype", arXiv, 2001.07331, January 2020
+
+1. Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Hisako Asano and Junji Tomita, "Unsupervised Domain Adaptation of Language Models for Reading Comprehension", arXiv, 1911.10768, November 2019.
+
+1. Yasuhito Ohsugi, Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita, "A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension", arXiv, 1905.12848, May 2019.
+
+1. Kosuke Nishida, Kyosuke Nishida, Masaaki Nagata, Itsumi Saito, Atushi Otuka, Hisako Asano and Junji Tomita, "Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction", arXiv, 1905.08511, May 2019.
+
+1. Jun Suzuki, Yoshihiko Suhara, Hiroyuki Toda, Kyosuke Nishida, "Personalized Visited-POI Assignment to Individual Raw GPS Trajectories", arXiv, 1901.06257, January 2019.
+
+1. Kyosuke Nishida, Itsumi Saito, Kosuke Nishida, Kazutoshi Shinoda, Atsushi Otsuka, Hisako Asano, Junji Tomita, "Multi-style Generative Reading Comprehension", arXiv, 1901.02262, January 2019. 
+
+1. Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita, "Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension", arXiv, 1808.10628, August 2018.
+
 ## その他
 
 1. 西田京介, 田中涼太, "[人のように文書を視覚的に読み解き質問に応答する視覚的機械読解技術](https://www.bcm.co.jp/site/2022/08/hil/2208-hil-01-04.pdf)", ビジネスコミュニケーション誌,, 2022年8月
