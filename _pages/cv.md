@@ -15,9 +15,9 @@ Education
   * Graduation thesis: Strategy Acquisition for Games based on Reinforcement Learning (in Japanese) 
   * 苫小牧工業高等専門学校情報工学科 卒業，準学士（工学）．
 * March 25, 2004
-　* Bachelor of Engineering, in the field of Information Engineering, at the Faculty of Engineering, Hokkaido University. 
-　* Undergraduate thesis: An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks (in Japanese)
-　* 北海道大学工学部情報工学科 卒業，学士（工学）．
+  * Bachelor of Engineering, in the field of Information Engineering, at the Faculty of Engineering, Hokkaido University. 
+  * Undergraduate thesis: An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks (in Japanese)
+  * 北海道大学工学部情報工学科 卒業，学士（工学）．
 * March 24, 2006
   * Master of Information Science and Technology, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University. 
   * Master thesis: Adaptive Classifiers-Ensemble System for Supervised Online Learning in Concept-Drifting Environments
