@@ -39,7 +39,7 @@ author_profile: true
 
 1. 大塚淳史, 別所克人, 西田京介, 浅野久子, 松尾義博, "[ニューラル翻訳モデルを用いた回答文書検索のための拡張クエリ生成手法](https://dbsj.org/journal/dbsj_journal_j/dbsj_journal_vol_16_04/)", 日本データベース学会和文論文誌, Vol. 16, No.4, pp. 1-8, March 2018.
 
-1. 瀧本祥章, 西田京介, 遠藤結城, 戸田浩之, 澤田宏, 石川佳治, "時間帯を考慮したパーソナライズ目的地予測", 電子情報通信学会論文誌 D, Vol. J100-D, No. 4, pp. 472-484, April 2017．
+1. 瀧本祥章, 西田京介, 遠藤結城, 戸田浩之, 澤田宏, 石川佳治, "[時間帯を考慮したパーソナライズ目的地予測](https://doi.org/10.14923/transinfj.2016DET0003)", 電子情報通信学会論文誌 D, Vol. J100-D, No. 4, pp. 472-484, April 2017．
 
 1. 蔵内雄貴, 西田京介, 川中翔, 星出高秀，内山匡, "[ベンフォードの法則を応用したbotアカウント検出](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_12_no_1_19_24/)" 日本データベース学会論文誌, Vol. 12, No. 1, pp.19-24, June 2013.
 
@@ -51,13 +51,13 @@ author_profile: true
 
 1. 西田京介, 藤村考, "[階層的オートタギングによるQ&Aコミュニティの知識整理](https://dbsj.org/journal/dbsj_journal/dbsj_journal_vol_9_no_1_47_52/)", 日本データベース学会論文誌, Vol. 9, No. 1, pp. 47-52, June 2010.
 
-1. 西田京介, "Concept Driftの学習と検出に関する研究 (学習と発見, <特集>人工知能分野における博士論文)," 人工知能学会誌, Vol. 24, No. 1, p. 111, January 2009
+1. 西田京介, " [Concept Driftの学習と検出に関する研究 (学習と発見, <特集>人工知能分野における博士論文)](https://cir.nii.ac.jp/crid/1390848647557114240)", 人工知能学会誌, Vol. 24, No. 1, p. 111, January 2009
 
-1. 鳴海建太, 西田京介, 山内康一郎, "統計的手法と事例ベース手法を併用したスパムフィルタリング," 電子情報通信学会論文誌 D, Vol. J91-D, No. 11, pp. 2569-2578, November 2008.
+1. 鳴海建太, 西田京介, 山内康一郎, "[統計的手法と事例ベース手法を併用したスパムフィルタリング](https://search.ieice.org/bin/summary.php?id=j91-d_11_2569&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 11, pp. 2569-2578, November 2008.
 
-1. 西田京介, 島田章平, 石川悟, 山内康一郎, "人間行動に着想を得た突然かつ重大な学習対象変化の検出法," 電子情報通信学会論文誌 D, Vol. J91-D, No. 1, pp. 51-64, January 2008.
+1. 西田京介, 島田章平, 石川悟, 山内康一郎, "[人間行動に着想を得た突然かつ重大な学習対象変化の検出法](https://search.ieice.org/bin/summary.php?id=j91-d_1_51&category=D&year=2008&lang=J&abst=)", 電子情報通信学会論文誌 D, Vol. J91-D, No. 1, pp. 51-64, January 2008.
 
-1. 西田京介, 山内康一郎, 大森隆司, "Minimal Hyper Basis Function Networksを用いた次元選択付オンライン学習法," 電子情報通信学会論文誌 D-II, Vol. J88-D-II, No. 3, pp. 459-468, March 2005.
+1. 西田京介, 山内康一郎, 大森隆司, "[Minimal Hyper Basis Function Networksを用いた次元選択付オンライン学習法](https://search.ieice.org/bin/summary.php?id=j88-d2_3_459&category=D&lang=J&year=2005&abst=)", 電子情報通信学会論文誌 D-II, Vol. J88-D-II, No. 3, pp. 459-468, March 2005.
 
 ## 国内会議発表
 
