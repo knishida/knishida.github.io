@@ -11,24 +11,24 @@ Education
 ======
 
 * March 19, 2002
-  * Associate of Engineering at the Department of Computer Science and Engineering, Tomakomai National College of Technology (苫小牧工業高等専門学校情報工学科 卒業，準学士（工学）)
+  * Associate of Engineering at the Department of Computer Science and Engineering, Tomakomai National College of Technology （苫小牧工業高等専門学校情報工学科 卒業，準学士(工学)）
   * Graduation thesis: Strategy Acquisition for Games based on Reinforcement Learning (in Japanese) 
 * March 25, 2004
-  * Bachelor of Engineering, in the field of Information Engineering, at the Faculty of Engineering, Hokkaido University (北海道大学工学部情報工学科 卒業，学士（工学）)
+  * Bachelor of Engineering, in the field of Information Engineering, at the Faculty of Engineering, Hokkaido University （北海道大学工学部情報工学科 卒業，学士(工学)）
   * Undergraduate thesis: An On-line Learning Algorithm with Dimension Selection using Minimal Hyper Basis Function Networks (in Japanese)
 * March 24, 2006
-  * Master of Information Science and Technology, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University (北海道大学大学院情報科学研究科 複合情報学専攻 修士課程 修了，修士（情報科学）)
+  * Master of Information Science and Technology, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University （北海道大学大学院情報科学研究科 複合情報学専攻 修士課程 修了，修士(情報科学)）
   * Master thesis: Adaptive Classifiers-Ensemble System for Supervised Online Learning in Concept-Drifting Environments
 * March 25, 2008
-  * Doctor of Philosopy, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University (北海道大学大学院情報科学研究科 複合情報学専攻 博士後期課程 修了，博士（情報科学）)
+  * Doctor of Philosopy, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University （北海道大学大学院情報科学研究科 複合情報学専攻 博士後期課程 修了，博士(情報科学)）
   * Dissertation: Learning and Detecting Concept Drift
 
 Work experience
 ======
 * April 1, 2006 - March 31, 2008
-  * Research Fellow of the Japan Society for the Promotion of Science (DC1, Hokkaido University) (日本学術振興会特別研究員（DC1，北海道大学）)
+  * Research Fellow of the Japan Society for the Promotion of Science, DC1, Hokkaido University（日本学術振興会特別研究員 DC1，北海道大学）
 * April 1, 2008 - March 31, 2009
-  * Research Fellow of the Japan Society for the Promotion of Science (PD, Hokkaido University) (日本学術振興会特別研究員（PD，北海道大学）)
+  * Research Fellow of the Japan Society for the Promotion of Science, PD, Hokkaido University（日本学術振興会特別研究員 PD，北海道大学）
 * April 1, 2009 - present: 
   * NTT Corporation (日本電信電話株式会社)
     * April 1 2009 - : NTT Cyber Solution Laboratories（NTTサイバーソリューション研究所）
