@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
 
 * March 19, 2002
   * Associate of Engineering at the Department of Computer Science and Engineering, Tomakomai National College of Technology （苫小牧工業高等専門学校情報工学科 卒業，準学士(工学)）
@@ -23,8 +22,8 @@ Education
   * Doctor of Philosopy, in the field of Synergetic Information Science, at the Graduate School of Information Science and Technology, Hokkaido University （北海道大学大学院情報科学研究科 複合情報学専攻 博士後期課程 修了，博士(情報科学)）
   * Dissertation: Learning and Detecting Concept Drift
 
-Work experience
-======
+## Work experience
+
 * April 1, 2006 - March 31, 2008
   * Research Fellow of the Japan Society for the Promotion of Science, DC1, Hokkaido University（日本学術振興会特別研究員 DC1，北海道大学）
 * April 1, 2008 - March 31, 2009
@@ -38,15 +37,14 @@ Work experience
     * November 1, 2015 - : NTT Media Intelligence Laboratories（NTTメディアインテリジェンス研究所）
     * July 1, 2021-: NTT Human Informatics Laboratories（NTT人間情報研究所）
   
-Teaching
-======
+## Teaching
+
 * September 2019 - present:
   * Part-time Lecturer, at Faculty of Science and Engineering, Hosei University, Japan. (法政大学 兼任講師)
 * April 11, 2007 - September 28, 2007:
   * Part-time Lecturer, at Department of Computer Science and Engineering, Tomakomai National Colledge of Technology, Tomakomai, Japan. (苫小牧工業高等専門学校情報工学科 非常勤講師）
 
-Competitions / Leaderboards
-======
+## Competitions / Leaderboards
 
 * ICDAR 2021 Competition On Document Visual Question Answering (DocVQA)
   * NTT Media Intelligence Laboratories  (Ryota Tanaka and Kyosuke Nishida), 
