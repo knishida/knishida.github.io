@@ -9,7 +9,7 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
-1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), accepted, May 2023. [arxiv]
+1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), accepted, May 2023. 
 
 1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images", in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023,  1721/8777=19.6%), accepted (full paper), February 2023. 
 
@@ -21,7 +21,7 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 1. Shumpei Miyawaki, Taku Hasegawa, Kyosuke Nishida, Takuma Kato, Jun Suzuki, "[Scene-Text Aware Image and Text Retrieval with Dual-Encoder](http://dx.doi.org/10.18653/v1/2022.acl-srw.34)", in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (ACL SRW 2022), pp. 422-433, May 2022.
 
-1. Kosuke Nishida, Kyosuke Nishida, Sen Yoshida, "[Task-adaptive Pre-training of Language Models with Word Embedding Regularization](https://doi.org/10.18653/v1/2021.findings-acl.398)", in Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (findings), pp. 4546-4553, August 2021. [arxiv]
+1. Kosuke Nishida, Kyosuke Nishida, Sen Yoshida, "[Task-adaptive Pre-training of Language Models with Word Embedding Regularization](https://doi.org/10.18653/v1/2021.findings-acl.398)", in Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (findings), pp. 4546-4553, August 2021. 
 
 1. Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Sen Yoshida: "[Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction](https://doi.org/10.1109/IJCNN52387.2021.9534370)", in Proceddings of the 2021 International Joint Conference on Neural Networks ( IJCNN 2021), pp. 1-8, July 2021. 
 
@@ -73,11 +73,11 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 1. Kyosuke Nishida, Hiroyuki Toda, and Yoshimasa Koike, "[Extracting Arbitrary-shaped Stay Regions from Geospatial Trajectories with Outliers and Missing Points](https://doi.org/10.1145/2834882.2834884)", in Proceedings of the 8th ACM SIGSPATIAL International Workshop on Computational Transportation Science (IWCTS 2015), pp.1-6, Seattle, Washington, US, November 2015.
 
-1. Kyosuke Nishida, Hiroyuki Toda, Takeshi Kurashima, and Yoshihiko Suhara, "[Probabilistic Identiﬁcation of Visited Point-of-Interest for Personalized Automatic Check-in]"(https://doi.org/10.1145/2632048.2632092), in Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2014), pp.631-642, Seattle, Washington, US, September 2014. [pdf] (full paper, 71/454=15.6%)
+1. Kyosuke Nishida, Hiroyuki Toda, Takeshi Kurashima, and Yoshihiko Suhara, "[Probabilistic Identiﬁcation of Visited Point-of-Interest for Personalized Automatic Check-in]"(https://doi.org/10.1145/2632048.2632092), in Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2014), pp.631-642, Seattle, Washington, US, September 2014.  (full paper, 71/454=15.6%)
 
 1. Jun Ito, Kyosuke Nishida, Takahide Hoshide, Hiroyuki Toda and Tadasu Uchiyama, "[What is he/she like?: Estimating Twitter User Attributes from the Contents and Social Neighbors](https://doi.org/10.1145/2492517.2492585)", in Proceedings of the 2013 IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2013), pp. 1448-1450, Niagara Falls, Canada, August 2013. (short paper, 28%)
 
-1. Kyosuke Nishida, Takahide Hoshide, and Ko Fujimura, "[Improving Tweet Stream Classification by Detecting Changes in Word Probability](https://doi.org/10.1145/2348283.2348412)" in Proceedings of the 35th international ACM SIGIR conference on Research and development in Information Retrieval (SIGIR 2012), pp. 971-980, Portland, Oregon, August 2012. [pdf] (full paper, 98/483=20.2%)
+1. Kyosuke Nishida, Takahide Hoshide, and Ko Fujimura, "[Improving Tweet Stream Classification by Detecting Changes in Word Probability](https://doi.org/10.1145/2348283.2348412)" in Proceedings of the 35th international ACM SIGIR conference on Research and development in Information Retrieval (SIGIR 2012), pp. 971-980, Portland, Oregon, August 2012. (full paper, 98/483=20.2%)
 
 1. Kyosuke Nishida, Ryohei Banno, Ko Fujimura, and Takahide Hoshide, "[Tweet Classification by Data Compression](https://dl.acm.org/doi/10.1145/2064448.2064473)", in Proceedings of the 2011 international workshop on DETecting and Exploiting Cultural diversiTy on the social web (DETECT 2011, in conjunction with ACM CIKM), pp. 29-34, Glasgow, UK, October 2011.
 
