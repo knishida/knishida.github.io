@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. 西田京介, 西田光甫, 田中涼太, 斉藤いつみ, "NLPとVision-and-Languageの基礎・最新動向",  第15回データ工学と情報マネジメントに関するフォーラム チュートリアル, 2023年3月．[(part1)](https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp) [(part2)](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
+1. 西田京介, 西田光甫, 田中涼太, 斉藤いつみ, "NLPとVision-and-Languageの基礎・最新動向",  [第15回データ工学と情報マネジメントに関するフォーラム チュートリアル](https://event.dbsj.org/deim2023/post/tutorial.html), 2023年3月．[(part1)](https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp) [(part2)](https://speakerdeck.com/kyoun/deim-tutorial-part-2-vision-and-language)
 
-1. 西田京介, "自然言語処理とVision-and-Languageの最新動向",  東北大学主催 第9回 医学AIセミナー 特別レクチャー, 2023年2月．
+1. 西田京介, "自然言語処理とVision-and-Languageの最新動向", [東北大学主催 第9回 医学AIセミナー 特別レクチャー]((https://www.shp.hosp.tohoku.ac.jp/Clinical_AI/event/2023%e5%b9%b42%e6%9c%883%e6%97%a5%ef%bc%88%e9%87%91%ef%bc%89%e6%9d%b1%e5%8c%97%e5%a4%a7%e5%ad%a6%e4%b8%bb%e5%82%ac-%e7%ac%ac9%e5%9b%9e-%e5%8c%bb%e5%ad%a6ai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/)), 2023年2月．
 
-1. 西田京介, "視覚と言語に基づく文書理解",  第42回医療情報学連合大会, 2022年11月．
+1. 西田京介, "視覚と言語に基づく文書理解", [第42回医療情報学連合大会](https://jcmi42.org/program.html), 2022年11月．
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2022年10月.
 
@@ -17,11 +17,11 @@ author_profile: true
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2021年10月.
 
-1. 西田京介, "視覚と言語の統合的理解に基づく文書理解と質問応答 ",  第48回産業総合研究所人工知能セミナー, 2021年9月.
+1. 西田京介, "視覚と言語の統合的理解に基づく文書理解と質問応答", [第48回産業総合研究所人工知能セミナー](https://www.airc.aist.go.jp/seminar_detail/seminar_048.html), 2021年9月.
 
 1. 西田京介, "人とAIの共生に向けた視覚と言語の融合理解",  NVIDIA AI DAYS, 2021年6月.
 
-1. 西田京介, "言語と視覚に基づく質問応答の最新動向",  言語処理学会第27回年次大会ワークショップ AI王 〜クイズAI日本一決定戦〜, 2021年3月. [(slides)](https://speakerdeck.com/kyoun/recent-trends-in-vision-and-language-studies-for-qa)
+1. 西田京介, "言語と視覚に基づく質問応答の最新動向",  [言語処理学会第27回年次大会ワークショップ AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/nlp2021-aio/), 2021年3月. [(slides)](https://speakerdeck.com/kyoun/recent-trends-in-vision-and-language-studies-for-qa)
 
 1. 西田京介, "自然言語処理とビジョン＆ランゲージへの派生", 日本ロボット学会 ロボット学会セミナー第132回, 2021年2月.
 
