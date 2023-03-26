@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kyosuke Nishida"
   avatar           : "profile.jpeg"
-  bio              : ""
+  bio              : "Distinguished Researcher at NTT Human Informatics Laboratories"
   location         : "Tokyo, Japan"
-  employer         : "NTT Human Informatics Laboratories"
+  employer         : 
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=sNCGB6UAAAAJ"
   email            : "kyosuke.nishida@acm.org"
