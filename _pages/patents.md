@@ -11,15 +11,15 @@ author_profile: true
 
 1. [11593436](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11593436) (February 28, 2023) Atsushi Otsuka, Kyosuke Nishida, Narichika Nomoto, Hisako Asano: Information provision device, information provision method, and program
 
-1. 11568132 (January 31, 2023) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Phrase generation relationship estimation model learning device, phrase generation device, method, and program
+1. [11568132](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11568132) (January 31, 2023) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Phrase generation relationship estimation model learning device, phrase generation device, method, and program
 
-1. 11481560 (October 25, 2022) Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita: Information processing device, information processing method, and program
+1. [11481560](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11481560) (October 25, 2022) Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita: Information processing device, information processing method, and program
 
-1. 11404063 (August 2, 2022) Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida: Nonverbal information generation apparatus, nonverbal information generation model learning apparatus, methods, and programs
+1. [11404063](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11404063) (August 2, 2022) Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida: Nonverbal information generation apparatus, nonverbal information generation model learning apparatus, methods, and programs
 
-1. 11403469 (August 2, 2022) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Sentence generation device, model learning device, sentence generation method, model learning method, and program
+1. [11403469](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11403469) (August 2, 2022) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Sentence generation device, model learning device, sentence generation method, model learning method, and program
 
-1. 11182435 (November 23, 2021) Atsushi Otsuka, Katsuji Bessho, Kyosuke Nishida, Hisako Asano, Yoshihiro Matsuo: Model generation device, text search device, model generation method, text search method, data structure, and program
+1. [11182435](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11182435) (November 23, 2021) Atsushi Otsuka, Katsuji Bessho, Kyosuke Nishida, Hisako Asano, Yoshihiro Matsuo: Model generation device, text search device, model generation method, text search method, data structure, and program
 
 ## Domestic Patents
 
