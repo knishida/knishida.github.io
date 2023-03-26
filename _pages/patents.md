@@ -5,6 +5,24 @@ permalink: /patents/
 author_profile: true
 ---
 
+## US Patents
+
+[JUSTIA](https://patents.justia.com/inventor/kyosuke-nishida)
+
+1. 11593436 (February 28, 2023) Atsushi Otsuka, Kyosuke Nishida, Narichika Nomoto, Hisako Asano: Information provision device, information provision method, and program
+
+1. 11568132 (January 31, 2023) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Phrase generation relationship estimation model learning device, phrase generation device, method, and program
+
+1. 11481560 (October 25, 2022) Kyosuke Nishida, Itsumi Saito, Atsushi Otsuka, Hisako Asano, Junji Tomita: Information processing device, information processing method, and program
+
+1. 11404063 (August 2, 2022) Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida: Nonverbal information generation apparatus, nonverbal information generation model learning apparatus, methods, and programs
+
+1. 11403469 (August 2, 2022) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Sentence generation device, model learning device, sentence generation method, model learning method, and program
+
+1. 11182435 (November 23, 2021) Atsushi Otsuka, Katsuji Bessho, Kyosuke Nishida, Hisako Asano, Yoshihiro Matsuo: Model generation device, text search device, model generation method, text search method, data structure, and program
+
+## Domestic Patents
+
 1. 7230576 (令05.2.20) 西田京介 、斉藤いつみ 、西田光甫 、浅野久子 、富田準二：生成装置、学習装置、生成方法及びプログラム
 
 1. 7212284 (令05.1.17) 石井亮 、東中竜一郎 、片山太一 、富田準二 、小林のぞみ 、西田京介：非言語情報生成装置、方法、及びプログラム
