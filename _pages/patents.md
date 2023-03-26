@@ -9,7 +9,7 @@ author_profile: true
 
 [JUSTIA](https://patents.justia.com/inventor/kyosuke-nishida)
 
-1. 11593436 (February 28, 2023) Atsushi Otsuka, Kyosuke Nishida, Narichika Nomoto, Hisako Asano: Information provision device, information provision method, and program
+1. [11593436](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11593436) (February 28, 2023) Atsushi Otsuka, Kyosuke Nishida, Narichika Nomoto, Hisako Asano: Information provision device, information provision method, and program
 
 1. 11568132 (January 31, 2023) Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Phrase generation relationship estimation model learning device, phrase generation device, method, and program
 
