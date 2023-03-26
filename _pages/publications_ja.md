@@ -5,7 +5,7 @@ permalink: /publications_ja/
 author_profile: true
 ---
 
-Links: [CiNii]https://cir.nii.ac.jp/all?q=%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B, [J-GLOBAL](https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B%22%7D)
+Links: [CiNii](https://cir.nii.ac.jp/all?q=%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B), [J-GLOBAL](https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B%22%7D)
 
 ## Conference Papers
 
