@@ -5,7 +5,7 @@ permalink: /publications_ja/
 author_profile: true
 ---
 
-## Japanese Conference Papers
+## Conference Papers
 
 1. 田中涼太, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子, "SlideVQA: 複数の文書画像に対する質問応答", 言語処理学会第29回年次大会（NLP2023）, A11-4, March 2023. **優秀賞 (上位13/579件)**, **言語資源賞 (2/97件)**
 
@@ -158,7 +158,7 @@ author_profile: true
 1. 西田京介, 山内康一郎, "Minimal Hyper Basis Function Networksを用いた逐次学習法," 日本神経回路学会第13回全国大会講演論文集, pp. 226-227, September 2003.
 
 
-## Japanese Journal Papaers
+## Journal Papaers
 
 1. 鈴木潤, 松田耕史, 鈴木正敏, 加藤拓真, 宮脇峻平, 西田京介,  "[ライブコンペティション：「AI 王～クイズ AI 日本一決定戦～」](https://doi.org/10.5715/jnlp.28.888)", 自然言語処理,  2021 年 28 巻 3 号 p. 888-894, September 2021.
 
