@@ -13,7 +13,7 @@ author_profile: true
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2022年10月.
 
-1. 西田京介, "自然言語処理とVision-and-Language",  2022年度 人工知能学会全国大会（第36回）, 2022年6月．[(slides)](https://speakerdeck.com/kyoun/a-tutorial-on-nlp-and-vision-and-language)
+1. 西田京介, "自然言語処理とVision-and-Language",  [2022年度 人工知能学会全国大会（第36回）チュートリアル](https://www.ai-gakkai.or.jp/jsai2022/tutorial/), 2022年6月．[(slides)](https://speakerdeck.com/kyoun/a-tutorial-on-nlp-and-vision-and-language)
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2021年10月.
 
@@ -23,23 +23,23 @@ author_profile: true
 
 1. 西田京介, "言語と視覚に基づく質問応答の最新動向",  [言語処理学会第27回年次大会ワークショップ AI王 〜クイズAI日本一決定戦〜](https://sites.google.com/view/nlp2021-aio/), 2021年3月. [(slides)](https://speakerdeck.com/kyoun/recent-trends-in-vision-and-language-studies-for-qa)
 
-1. 西田京介, "自然言語処理とビジョン＆ランゲージへの派生", 日本ロボット学会 ロボット学会セミナー第132回, 2021年2月.
+1. 西田京介, "自然言語処理とビジョン＆ランゲージへの派生", [日本ロボット学会 ロボット学会セミナー第132回](https://www.rsj.or.jp/event/seminar/news/2021/s132.html), 2021年2月.
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2020年10月.
 
-1. 西田京介, "事前学習済言語モデルの動向と展望", 産総研・東工大実社会ビッグデータ活用オープンイノベーションラボラトリ, 2020年2月. [(slides)](https://speakerdeck.com/kyoun/survey-of-pretrained-language-models-f6319c84-a3bc-42ed-b7b9-05e2588b12c7)
+1. 西田京介, "事前学習済言語モデルの動向と展望", [産総研・東工大実社会ビッグデータ活用オープンイノベーションラボラトリ](https://www.nlp.c.titech.ac.jp/news/2020/02/28/aitech.ja.html), 2020年2月. [(slides)](https://speakerdeck.com/kyoun/survey-of-pretrained-language-models-f6319c84-a3bc-42ed-b7b9-05e2588b12c7)
 
 1. 西田京介, "機械読解と自然言語理解", お茶の水女子大学 理学総論, 2019年11月.
 
-1. 西田京介, "ACL'19参加報告と事前学習言語モデルの動向", xpaper.challenge, 2019年11月. [(slides)](https://speakerdeck.com/kyoun/survey-of-pretrained-language-models)
+1. 西田京介, "ACL'19参加報告と事前学習言語モデルの動向", [xpaper.challenge](https://techplay.jp/event/756314), 2019年11月. [(slides)](https://speakerdeck.com/kyoun/survey-of-pretrained-language-models)
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2019年10月.
 
-1. 西田京介, "自然言語生成による機械読解", WebDB Forum 2019 先端研究解説セッション, 2019年9月.
+1. 西田京介, "自然言語生成による機械読解", [WebDB Forum 2019 先端研究解説セッション](https://db-event.jpn.org/webdbf2019/program.html#S2), 2019年9月.
 
-1. 西田京介, "機械読解の現状と展望", 言語処理学会第25回年次大会 チュートリアル, 2019年3月. [(slides)](https://speakerdeck.com/kyoun/a-talk-on-machine-reading-comprehension-nlp2019)
+1. 西田京介, "機械読解の現状と展望", [言語処理学会第25回年次大会 チュートリアル](https://www.anlp.jp/nlp2019/#tutorial), 2019年3月. [(slides)](https://speakerdeck.com/kyoun/a-talk-on-machine-reading-comprehension-nlp2019)
 
-1. 西田京介, "機械読解技術の最新動向と実用化へ向けた展望", 東北大学乾・鈴木研究室 みちのく情報伝達学セミナー, 2019年1月.
+1. 西田京介, "機械読解技術の最新動向と実用化へ向けた展望", [東北大学乾・鈴木研究室 みちのく情報伝達学セミナー](https://www.nlp.ecei.tohoku.ac.jp/research-meetings/mics/), 2019年1月.
 
 1. 西田京介, "深層学習による自然言語処理技術の最新動向とビジネスへの利用例", 東京大学 総合分析情報学特論, 2018年10月.
 
