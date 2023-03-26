@@ -5,6 +5,8 @@ permalink: /publications_ja/
 author_profile: true
 ---
 
+Links: [CiNii]https://cir.nii.ac.jp/all?q=%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B, [J-GLOBAL](https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B%22%7D)
+
 ## Conference Papers
 
 1. 田中涼太, 西田京介, 西田光甫, 長谷川拓, 斉藤いつみ, 齋藤邦子, "SlideVQA: 複数の文書画像に対する質問応答", 言語処理学会第29回年次大会（NLP2023）, A11-4, March 2023. **優秀賞 (上位13/579件)**, **言語資源賞 (2/97件)**
