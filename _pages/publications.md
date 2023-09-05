@@ -119,6 +119,8 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## Preprints
 
+1. Tsuyoshi Baba, Kosuke Nishida, Kyosuke Nishida, "[Robust Text-driven Image Editing Method that Adaptively Explores Directions in Latent Spaces of StyleGAN and CLIP](https://arxiv.org/abs/2304.00964), arXiv, 2304.00964, April 2023.
+
 1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "[SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://arxiv.org/abs/2301.04883)", arXiv, 2301.04883, January 2023.
 
 1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "[Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge](https://arxiv.org/abs/2210.07523)", arXiv, 2210.07523, October 2022.
