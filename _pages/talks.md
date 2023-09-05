@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. 西田京介, "GPT-4とVision-and-Languageの未来", 第29回画像センシングシンポジウム, 2023年6月（予定）. 
+1. 西田京介, 西田光甫, "[大規模言語モデル入門](https://speakerdeck.com/kyoun/llm-introduction-ses2023)", ソフトウェアエンジニアリングシンポジウム, 2023年8月. 
+   
+1. 西田京介, "GPT-4とVision-and-Languageの未来", 第29回画像センシングシンポジウム, 2023年6月. 
 
-1. Jun Suzuki, Naoaki Okazaki, Kyosuke Nishida, "A Gentle Introduction to Technologies Behind Language Models and Recent Achievement in ChatGPT", The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, May 2023（予定）.
+1. Jun Suzuki, Naoaki Okazaki, Kyosuke Nishida, "A Gentle Introduction to Technologies Behind Language Models and Recent Achievement in ChatGPT", The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, May 2023.
 
 1. 西田京介, 壹岐太一, "[Collaborative AI: 視覚・言語・行動の融合](https://speakerdeck.com/kyoun/collaborativeai)",  [第13回 Language and Robotics研究会](https://langrobo.connpass.com/event/275632/), 2023年5月．
 
