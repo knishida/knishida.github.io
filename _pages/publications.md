@@ -9,6 +9,10 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
+1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, and Kuniko Saito, "DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning.", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), to appear, December 2023.
+
+1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), to appear, December 2023.
+
 1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "[Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge](https://aclanthology.org/2023.eacl-main.233/)", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3193-3205, May 2023. 
 
 1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "[SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://ojs.aaai.org/index.php/AAAI/article/view/26598)", in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023,  1721/8777=19.6%), pp. 13636-13645, February 2023. [github](https://github.com/nttmdlab-nlp/SlideVQA)
@@ -17,13 +21,13 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 1. Fumio Nihei, Ryo Ishii, Yukiko Nakano, Kyosuke Nishida, Ryo Masumura, Atsushi Fukayama and Takao Nakamura, "[Dialogue Acts Aided Important Utterance Detection Based on multiparty and multimodal information](https://doi.org/10.21437/Interspeech.2022-324)", in Proceedings of the 2022 Conference of the International Speech Communication Association (INTERSPEECH 2022), pp. 1086-1090, September 2022.
 
-1. Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka, "[Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions](https://doi.org/10.18653/v1/2022.findings-naacl.106)", in Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022) (findings), pp. 1421-1430, July 2022. 
+1. Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka, "[Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions](https://doi.org/10.18653/v1/2022.findings-naacl.106)", in Findings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022 findings), pp. 1421-1430, July 2022. 
 
 1. Shumpei Miyawaki, Taku Hasegawa, Kyosuke Nishida, Takuma Kato, Jun Suzuki, "[Scene-Text Aware Image and Text Retrieval with Dual-Encoder](http://dx.doi.org/10.18653/v1/2022.acl-srw.34)", in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (ACL SRW 2022), pp. 422-433, May 2022.
 
-1. Kosuke Nishida, Kyosuke Nishida, Sen Yoshida, "[Task-adaptive Pre-training of Language Models with Word Embedding Regularization](https://doi.org/10.18653/v1/2021.findings-acl.398)", in Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) (findings), pp. 4546-4553, August 2021. 
+1. Kosuke Nishida, Kyosuke Nishida, Sen Yoshida, "[Task-adaptive Pre-training of Language Models with Word Embedding Regularization](https://doi.org/10.18653/v1/2021.findings-acl.398)", in Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021; findings), pp. 4546-4553, August 2021. 
 
-1. Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Sen Yoshida: "[Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction](https://doi.org/10.1109/IJCNN52387.2021.9534370)", in Proceddings of the 2021 International Joint Conference on Neural Networks ( IJCNN 2021), pp. 1-8, July 2021. 
+1. Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Sen Yoshida: "[Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction](https://doi.org/10.1109/IJCNN52387.2021.9534370)", in Proceddings of the 2021 International Joint Conference on Neural Networks (IJCNN 2021), pp. 1-8, July 2021. 
 
 1. Ryota Tanaka(\*), Kyosuke Nishida(\*), Sen Yoshida, "[VisualMRC: Machine Reading Comprehension on Document Images](https://doi.org/10.1609/aaai.v35i15.17635)", in Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), pp. 13878-13888, a Virtual Conference, February 2021. (\*: equal contribution) (full paper,  1696/7911=21.4%) 
 
