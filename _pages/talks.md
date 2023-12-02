@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. 西田京介, "Research and Development of LLM at NTT", TODAICL, 2023年11月.
+
+1. 西田京介, "大規模言語モデル入門", 東京大学 総合分析情報学特論, 2023年11月.
+
+1. 西田京介, "汎用言語モデルは人と暮らす夢を見るか?", NTT R&Dフォーラム, 2023年11月.
+
 1. 西田京介, 西田光甫, "[大規模言語モデル入門](https://speakerdeck.com/kyoun/llm-introduction-ses2023)", ソフトウェアエンジニアリングシンポジウム, 2023年8月. 
    
 1. 西田京介, "GPT-4とVision-and-Languageの未来", 第29回画像センシングシンポジウム, 2023年6月. 
