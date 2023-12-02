@@ -9,11 +9,11 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
-1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, and Kuniko Saito, "DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning.", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), to appear, December 2023.
+1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito, "DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning.", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), to appear, December 2023.
 
-1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), to appear, December 2023.
+1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), to appear, December 2023.
 
-1. Kosuke Nishida, Naoki Yoshinaga and Kyosuke Nishida, "[Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge](https://aclanthology.org/2023.eacl-main.233/)", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3193-3205, May 2023. 
+1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "[Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge](https://aclanthology.org/2023.eacl-main.233/)", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3193-3205, May 2023. 
 
 1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "[SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://ojs.aaai.org/index.php/AAAI/article/view/26598)", in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023,  1721/8777=19.6%), pp. 13636-13645, February 2023. [github](https://github.com/nttmdlab-nlp/SlideVQA)
 
