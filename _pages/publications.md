@@ -13,7 +13,7 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito, "[DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning](https://aclanthology.org/2023.emnlp-main.839/)", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, 1047/4909 = 21.3%), pp. 13607–13624, December 2023.
 
-1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), to appear, December 2023.
+1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "[Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering](https://aclanthology.org/2023.paclic-1.82/)", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), pp. 819-830, December 2023.
 
 1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "[Self-Adaptive Named Entity Recognition by Retrieving Unstructured Knowledge](https://aclanthology.org/2023.eacl-main.233/)", in Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3193-3205, May 2023. 
 
