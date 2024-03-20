@@ -9,7 +9,9 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
-1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito, "DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning.", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), to appear, December 2023.
+1. Ryota Tanaka, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, "InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions" in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2024), February 2023. [github](https://github.com/nttmdlab-nlp/InstructDoc)
+
+1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito, "[DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning](https://aclanthology.org/2023.emnlp-main.839/)", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, 1047/4909 = 21.3%), pp. 13607–13624, December 2023.
 
 1. Kosuke Nishida, Naoki Yoshinaga, Kyosuke Nishida, "Sparse Neural Retrieval Model for Efficient Cross-Domain Retrieval-Based Question Answering", in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37), to appear, December 2023.
 
