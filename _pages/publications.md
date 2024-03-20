@@ -43,7 +43,7 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 1. Kyosuke Nishida, Itsumi Saito, Kosuke Nishida, Kazutoshi Shinoda, Atsushi Otsuka, Hisako Asano and Junji Tomita, "[Multi-style Generative Reading Comprehension](https://doi.org/10.18653/v1/p19-1220)", in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), pp.2273-2284, July 2019. (long paper, 660/2905=22.7%)
 
-1. Kosuke Nishida, Kyosuke Nishida, Masaaki Nagata, Itsumi Saito, Atushi Otuka, Hisako Asano and Junji Tomita, "[Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction](https://doi.org/10.18653/v1/p19-1225)", in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), pp.2273-2284, 2335-2345, July 2019. (long paper, 660/2905=22.7%)
+1. Kosuke Nishida, Kyosuke Nishida, Masaaki Nagata, Itsumi Saito, Atushi Otuka, Hisako Asano and Junji Tomita, "[Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction](https://doi.org/10.18653/v1/p19-1225)", in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), pp. 2335-2345, July 2019. (long paper, 660/2905=22.7%)
 
 1. Yasuhito Ohsugi, Itsumi Saito, Kyosuke Nishida, Hisako Asano, and Junji Tomita, "[A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension](http://dx.doi.org/10.18653/v1/W19-4102)", in Proceedings of 1st Workshop on NLP for Conversational AI (NLP4ConvAI 2019; in conjunction with ACL 2019), Florence, Italy, July 2019. 
 
