@@ -2,19 +2,19 @@
 main:
   
   - title: "Publications"
-    url: /publications/
+    url: http://knishida.info/publications/
     
   - title: "Publications (in Japanese)"
-    url: /publications_ja/
+    url: http://knishida.info/publications_ja/
     
   - title: "Talks"
-    url: /talks/    
+    url: http://knishida.info/talks/    
 
   - title: "Awards"
-    url: /awards/  
+    url: http://knishida.info/awards/  
     
   - title: "Patents"
-    url: /patents/  
+    url: http://knishida.info/patents/  
     
   - title: "CV"
-    url: /cv/
+    url: http://knishida.info/cv/
