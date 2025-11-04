@@ -138,6 +138,23 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## Preprints
 
+1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Shin'ya Yamaguchi, Tomoya Ohba, Tamao Sakao, Susumu Takeuchi, "[Lossless Vocabulary Reduction for Auto-Regressive Language Models](https://arxiv.org/abs/2510.08102)", arXiv, 2510.08102, October 2025.
+
+1. Kazutoshi Shinoda, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito, "[Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefixing Improves Theory of Mind in Large Language Models](https://arxiv.org/abs/2506.05970)", arXiv, 2506.05970, June 2025.
+
+1. Ryota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, "[VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](https://arxiv.org/abs/2504.09795), arXiv, 2504.09795, April 2025.
+
+1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Susumu Takeuchi, "[Portable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models](https://arxiv.org/abs/2502.12776)", arXiv, 2502.12776. February 2025.
+
+1. Yui Oka, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, "[Wavelet-based Positional Representation for Long Context](https://arxiv.org/abs/2502.02004)", arXiv, 2502.02004, February 2025.
+
+1. Kazutoshi Shinoda, Nobukatsu Hojo, Kyosuke Nishida, Saki Mizuno, Keita Suzuki, Ryo Masumura, Hiroaki Sugiyama, Kuniko Saito, "[ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind](https://arxiv.org/abs/2501.08838)", arXiv, 2501.08838, January 2025.
+
+1. Kosuke Nishida, Kyosuke Nishida, Kuniko Saito, "[Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes](https://arxiv.org/abs/2410.05052)", arXiv, 2410.05052, October 2024.
+
+1. Ryota Tanaka, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, "[InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313
+)", arXiv, 2401.13313, January 2024.
+
 1. Tsuyoshi Baba, Kosuke Nishida, Kyosuke Nishida, "[Robust Text-driven Image Editing Method that Adaptively Explores Directions in Latent Spaces of StyleGAN and CLIP](https://arxiv.org/abs/2304.00964), arXiv, 2304.00964, April 2023.
 
 1. Ryota Tanaka, Kyosuke Nishida, Kosuke Nishida, Taku Hasegawa, Itsumi Saito, Kuniko Saito, "[SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images](https://arxiv.org/abs/2301.04883)", arXiv, 2301.04883, January 2023.
