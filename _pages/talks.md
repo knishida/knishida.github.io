@@ -5,6 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. 西田京介, "講演予定", NTT R&Dフォーラム, 2025年11月.
+
+1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
+
+1. Kyosuke Nishida, Kosuke Nishida, Ryota Tanaka "Recent Advances in Large Language Models and Vision-and-Language Models", The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), October 2023.
+
+1. 西田京介, "NTT版大規模言語モデル tsuzumi 2について", 第24回LLM勉強会, 2025年10月
+
+1. 西田京介, "NTT版大規模言語モデル tsuzumi の取組について", databricks DATA+AI World Tour Tokyo, 2024年11月
+
 1. 西田京介, "LLMと共に知の泉を汲んで世に恵みを提供する", 言語処理学会第30回年次大会ワークショップ: 大規模言語モデルの実世界応用, 2024年3月
 
 1. 西田京介, 安藤厚志, "[LLMと音声理解・生成の最新動向](https://deim2024-tutorial-public.s3.ap-northeast-1.amazonaws.com/TU-B-1_LLM%E3%81%A8%E9%9F%B3%E5%A3%B0.pdf)", 第16回データ工学と情報マネジメントに関するフォーラム チュートリアル, 2024年3月.
