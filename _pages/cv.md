@@ -39,7 +39,7 @@ redirect_from:
   
 ## Teaching
 
-* September 2019 - present:
+* September 2019 - March 2023:
   * Part-time Lecturer, at Faculty of Science and Engineering, Hosei University, Japan. (法政大学 兼任講師)
 * April 11, 2007 - September 28, 2007:
   * Part-time Lecturer, at Department of Computer Science and Engineering, Tomakomai National Colledge of Technology, Tomakomai, Japan. (苫小牧工業高等専門学校情報工学科 非常勤講師）
