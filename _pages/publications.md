@@ -189,6 +189,13 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## Others
 
+1. Kyosuke Nishida. NTT’s Large Language Model "[“tsuzumi”: A High-performance and Low-energy-consumption Large Language Model with Expertise in Specific Fields](https://doi.org/10.53829/ntr202408fr1
+)", NTT Technical Review, Vol. 22 No. 8 pp. 6–12, Aug. 2024.
+
+1. Kentaro Shimizu, Kosuke Nishida, and Kyosuke Nishida, "[NTT’s LLM “tsuzumi](https://doi.org/10.53829/ntr202408fa1)”, Vol. 22, No. 8, pp. 19–25, Aug. 2024.
+
+1. Ryota Tanaka, Taichi Iki, Taku Hasegawa, and Kyosuke Nishida, "[NTT’s LLM “tsuzumi”: Capable of Comprehending Graphical Documents](https://doi.org/10.53829/ntr202408fa2)", NTT Technical Review, Vol. 22, No. 8, pp. 26–30, Aug. 2024
+
 1. Kyosuke Nishida, Takeshi Kurashima, Noboru Miyazaki, Hiroyuki Toda, and Shuichi Nishioka, "[Thought-processing Technology for Understanding, Reproducing, and Extending Human Thinking Ability](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202112fa2.pdf&mode=show_pdf)", NTT Technical Journal, Vol.19, No.12, December 2021
 
 1. Kyosuke Nishida, Kuniko Saito, Tetsuo Amakasu, Kazuyuki Iso, and Shuichi Nishioka, "[Knowledge and Language-processing Technology that Supports and Substitutes Customer-contact Work](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202012fa9.pdf&mode=show_pdf)", NTT Technical Journal, Vol.18, No.12, December 2020.
