@@ -9,7 +9,7 @@ author_profile: true
 
 1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
 
-1. Kyosuke Nishida, Kosuke Nishida, Ryota Tanaka "Recent Advances in Large Language Models and Vision-and-Language Models", The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), October 2023.
+1. Kyosuke Nishida, Kosuke Nishida, Ryota Tanaka "Recent Advances in Large Language Models and Vision-and-Language Models", The 21st International Conference on Advanced Data Mining and Applications (ADMA 2025), October 2025.
 
 1. 西田京介, "NTT版大規模言語モデル tsuzumi 2について", 第24回LLM勉強会, 2025年10月
 
