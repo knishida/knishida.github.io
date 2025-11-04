@@ -9,6 +9,18 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
+1. Ryota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki: "VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents", in Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), pp. 24827-24837, July 2025.
+
+1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Susumu Takeuchi: "Portable Reward Tuning: Towards Reusable Fine-Tuning across Different Pretrained Models", in Proceedings of Forty-second International Conference on Machine Learning (ICML 2025), July 2025.
+
+1. Nobukatsu Hojo, Kazutoshi Shinoda, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kyosuke Nishida, Kuniko Saito: GenerativeGUI: Dynamic GUI Generation Leveraging LLMs for Enhanced User Interaction on Chat Interfaces. in Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI Extended Abstracts), pp. 306:1-306:9, May 2025.
+
+1. Yui Oka, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito: "Wavelet-based Positional Representation for Long Context", in Proceedings of the Thirteenth International Conference on Learning Representations (ICLR 2025), April 2025.
+
+1. Kazutoshi Shinoda, Nobukatsu Hojo, Kyosuke Nishida, Saki Mizuno, Keita Suzuki, Ryo Masumura, Hiroaki Sugiyama, Kuniko Saito: "ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind", in Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), pp. 1520-1528, February 2025.
+
+1. Kosuke Nishida, Kyosuke Nishida, Kuniko Saito: "Initialization of Large Language Models via Reparameterization to Mitigate Loss Spikes", in Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), pp. 22699-22714, November 2024.
+
 1. Ryota Tanaka, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki, "InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions" in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2024), February 2023. [github](https://github.com/nttmdlab-nlp/InstructDoc)
 
 1. Taku Hasegawa, Kyosuke Nishida, Koki Maeda, Kuniko Saito, "[DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning](https://aclanthology.org/2023.emnlp-main.839/)", in the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, 1047/4909 = 21.3%), pp. 13607–13624, December 2023.
