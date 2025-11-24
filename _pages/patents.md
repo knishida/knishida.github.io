@@ -8,91 +8,20 @@ author_profile: true
 ## US Patents
 
 [JUSTIA](https://patents.justia.com/inventor/kyosuke-nishida)
-
-Text generation apparatus, text generation learning apparatus, text generation method, text generation learning method and program
-Patent number: 12430510
-Abstract: A text generation apparatus includes a content selection unit that acquires a reference text based on an input text and information different from the input text and a generation unit that generates a text based on the input text and the reference text, wherein the content selection unit and the generation unit are neural networks based on learned parameters, so that information to be considered when generating a text can be added as text.
-Type: Grant
-Filed: March 4, 2024
-Date of Patent: September 30, 2025
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Hisako Asano, Junji Tomita, Atsushi Otsuka
-
-Dialogue processing apparatus, learning apparatus, dialogue processing method, learning method and program
-Patent number: 12387051
-Abstract: A dialogue processing apparatus includes one or more computers each including a memory and a processor configured to receive a question Qi as a word string representing a current question in an interactive machine reading comprehension task, a question history {Q1, . . . , Qi?1} as a set of word strings representing previous questions, and an answer history {A1, . . . , Ai?1} as a set of word strings representing previous answers to the previous questions, and use a pre-learned first model parameter, to generate an encoded context vector reflecting an attribute or an importance degree of each of the previous questions and the previous answers; and receive a document P to be used to generate an answer Ai to the question Qi and the encoded context vector, and use a pre-learned second model parameter, to perform matching between the document and the previous questions and previous answers, to generate the answer.
-Type: Grant
-Filed: December 12, 2019
-Date of Patent: August 12, 2025
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Yasuhito Osugi, Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita
-
-
-Nonverbal information generation apparatus, nonverbal information generation model learning apparatus, methods, and programs
-Patent number: 12340629
-Abstract: A nonverbal information generation apparatus includes a nonverbal information generation unit that generates time-information-stamped nonverbal information that corresponds to time-information-stamped text feature quantities on the basis of the time-information-stamped text feature quantities and a learned nonverbal information generation model. The time-information-stamped text feature quantities are configured to include feature quantities that have been extracted from text and time information representing times assigned to predetermined units of the text. The nonverbal information is information for controlling an expression unit that expresses behavior that corresponds to the text.
-Type: Grant
-Filed: April 10, 2024
-Date of Patent: June 24, 2025
-Inventors: Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida
-
-Answer generating device, answer learning device, answer generating method, and answer generating program
-Patent number: 12314659
-Abstract: An encoding unit transforms a piece of text divided into a plurality of spans that are subdivided units of the piece of text and a question which have been input into a vector representation sequence representing a meaning of a span and the question based on the piece of text and the question which have been input using a pre-trained encoding model for transforming input text into a vector representation sequence representing a meaning of the input text. For each of the spans, an evidence extraction unit estimates an evidence score indicating the degree to which the span is suitable as the evidence for extracting the answer using a pre-trained extraction model for calculating the evidence score based on the vector representation sequence.
-Type: Grant
-Filed: December 17, 2019
-Date of Patent: May 27, 2025
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Kosuke Nishida, Atsushi Otsuka, Kyosuke Nishida, Hisako Asano, Junji Tomita, Itsumi Saito
-
-Text generation apparatus, text generation method, text generation learning apparatus, text generation learning method and program
-Patent number: 12292904
-Abstract: A sentence generation device has: an estimation unit for receiving input of a first sentence and an output length, and estimating importance of each word constituting the first sentence using a pre-trained model; and a generation unit for generating a second sentence based on the importance, and thus makes it possible to evaluate importance of a constituent element of an input sentence, in correspondence with a designated output length.
-Type: Grant
-Filed: February 25, 2020
-Date of Patent: May 6, 2025
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Itsumi Saito, Kyosuke Nishida, Atsushi Otsuka, Kosuke Nishida, Hisako Asano, Junji Tomita
-
-
-Sentence generation using pre-trained model with word importance and focus point
-Patent number: 12210847
-Abstract: A sentence generation device has: an estimation unit for receiving input of a first sentence and a focus point related to generation of a second sentence to be generated based on the first sentence, and estimating importance of each word constituting the first sentence using a pre-trained model; and a generation unit for generating the second sentence based on the importance, and thus makes it possible to evaluate importance of a constituent element of an input sentence in correspondence with a designated focus point.
-Type: Grant
-Filed: February 21, 2020
-Date of Patent: January 28, 2025
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Itsumi Saito, Kyosuke Nishida, Atsushi Otsuka, Kosuke Nishida, Hisako Asano, Junji Tomita
-
-
-Nonverbal information generation apparatus, method, and program
-Patent number: 12165672
-Abstract: A nonverbal information generation apparatus includes a display unit that partitions text into predetermined units, displays the text partitioned into the predetermined units, and makes nonverbal information that represents information about behavior of a verbal output agent or nonverbal information that represents information about behavior of a receiver of verbal information of the verbal output agent that corresponds to the text when the verbal output agent outputs the verbal information visible in association with the predetermined units of the text.
-Type: Grant
-Filed: February 15, 2019
-Date of Patent: December 10, 2024
-Assignee: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-Inventors: Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida
-
-
-
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
+    
+1. [12430510](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12430510) (September 30, 2025) Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Hisako Asano, Junji Tomita, Atsushi Otsuka: Text generation apparatus, text generation learning apparatus, text generation method, text generation learning method and program
+    
+1. [12387051](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12387051) (August 12, 2025) Yasuhito Osugi, Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita: Dialogue processing apparatus, learning apparatus, dialogue processing method, learning method and program
+    
+1. [12340629](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12340629) (June 24, 2025) Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida: Nonverbal information generation apparatus, nonverbal information generation model learning apparatus, methods, and programs
    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
-    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
-    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
-    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
+1. [12314659](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12314659) (May 27, 2025) Kosuke Nishida, Atsushi Otsuka, Kyosuke Nishida, Hisako Asano, Junji Tomita, Itsumi Saito: Answer generating device, answer learning device, answer generating method, and answer generating program
    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
-   
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
+1. [12292904](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12292904) (May 6, 2025) Itsumi Saito, Kyosuke Nishida, Atsushi Otsuka, Kosuke Nishida, Hisako Asano, Junji Tomita: Text generation apparatus, text generation method, text generation learning apparatus, text generation learning method and program
+
+1. [12210847](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12210847) (January 28, 2025) Itsumi Saito, Kyosuke Nishida, Atsushi Otsuka, Kosuke Nishida, Hisako Asano, Junji Tomita: Sentence generation using pre-trained model with word importance and focus point
     
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
-    
-1. [](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/) () :
+1. [12165672](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12165672) (December 10, 2024) Ryo Ishii, Ryuichiro Higashinaka, Taichi Katayama, Junji Tomita, Nozomi Kobayashi, Kyosuke Nishida: Nonverbal information generation apparatus, method, and program
     
 1. [12112275](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12112275) (October 8, 2024) Kosuke Nishida, Kyosuke Nishida, Hisako Asano, Junji Tomita: Learning device, learning method and learning program
     
