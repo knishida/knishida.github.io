@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. 西田京介, "講演予定", NTT R&Dフォーラム, 2025年11月.
+1. 西田京介, "tsuzumi 2が描く、AIビジネスの新地図 ～日本発LLMの挑戦と展望～", NTT R&Dフォーラム, 2025年11月.
 
 1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
 
@@ -38,6 +38,8 @@ author_profile: true
 1. 西田京介, "大規模言語モデル入門", 東京大学 総合分析情報学特論, 2023年11月.
 
 1. 西田京介, "汎用言語モデルは人と暮らす夢を見るか?", NTT R&Dフォーラム, 2023年11月.
+
+1. 西田京介, 田中涼太, "大規模言語モデルとVision-and-Languageの最新動向", Visual Computing, 2023年9月
 
 1. 西田京介, 西田光甫, "[大規模言語モデル入門](https://speakerdeck.com/kyoun/llm-introduction-ses2023)", ソフトウェアエンジニアリングシンポジウム, 2023年8月. 
    
