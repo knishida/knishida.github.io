@@ -13,7 +13,9 @@ author_profile: true
 
 1. 西田京介, "NTT版大規模言語モデル tsuzumi 2について", 第24回LLM勉強会, 2025年10月
 
-1. 西田京介, "NTT版大規模言語モデル tsuzumi の取組について", databricks DATA+AI World Tour Tokyo, 2024年11月
+1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
+
+1. 西田京介, "NTT版大規模言語モデル tsuzumi の取組について", databricks DATA+AI World Tour Tokyo, 2024年10月
 
 1. 西田京介, "LLMと共に知の泉を汲んで世に恵みを提供する", 言語処理学会第30回年次大会ワークショップ: 大規模言語モデルの実世界応用, 2024年3月
 
@@ -24,6 +26,8 @@ author_profile: true
 1. 西田京介, "NTT独自の軽量LLM「tsuzumi」の挑戦とビジョン", NTTPC Innovation LAB MeetUp, 2024年2月.
 
 1. 西田京介, "大規模言語モデルの基礎・最新動向", 電子情報通信学会関西支部イブニングセミナー, 2024年2月.
+
+1. 西田京介, “NTT版LLM「tsuzumi」について”, AWS LLM開発支援プログラム成果発表会, 2024年1月.
 
 1. 西田京介, "LLMのチューニング技術の最新動向", 第150回音声言語情報処理研究発表会, 2024年1月.
 
