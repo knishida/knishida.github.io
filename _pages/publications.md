@@ -9,7 +9,12 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
-	
+1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Shin'ya Yamaguchi, Tomoya Ohba, Tamao Sakao, Susumu Takeuchi: "Lossless Vocabulary Reduction for Auto-Regressive Language Models", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
+
+1. Yui Oka, Itsumi Saito, Kyosuke Nishida, Kuniko Saito: "Frequency Bands in RoPE: Base Frequency and Context Length Shape the Interpolation–Extrapolation Trade-off", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
+
+1. Yui Oka, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito: "Probing Rotary Position Embeddings through Frequency Entropy", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
+
 1. Sora Kadotani, Kosuke Nishida, Kyosuke Nishida: "[Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention](https://aclanthology.org/2025.findings-ijcnlp.68)", in Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP findings 2025), December 2025.
 
 1. Ryota Tanaka, Taichi Iki, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito, Jun Suzuki: "[VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](https://openaccess.thecvf.com/content/CVPR2025/html/Tanaka_VDocRAG_Retrieval-Augmented_Generation_over_Visually-Rich_Documents_CVPR_2025_paper.html)", in Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), pp. 24827-24837, July 2025.
