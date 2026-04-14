@@ -9,11 +9,17 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
+1. Kazutoshi Shinoda, Kosuke Nishida, Kyosuke Nishida, "Debiasing Reward Models via Causally Motivated Inference-Time Intervention", in Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
+
+1. Haruka Kawasaki, Ryota Tanaka, Kyosuke Nishida, "Responses Fall Short of Understanding: Revealing the Gap between Internal Representations and Responses in Visual Document Understanding", in  Proceedings of the 9th Multimodal Learning and Applications Workshop (MULA 2026; in conjunction with CVPR 2026) June 2026.
+
 1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Shin'ya Yamaguchi, Tomoya Ohba, Tamao Sakao, Susumu Takeuchi: "Lossless Vocabulary Reduction for Auto-Regressive Language Models", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
 
 1. Yui Oka, Itsumi Saito, Kyosuke Nishida, Kuniko Saito: "Frequency Bands in RoPE: Base Frequency and Context Length Shape the Interpolation–Extrapolation Trade-off", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
 
 1. Yui Oka, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito: "Probing Rotary Position Embeddings through Frequency Entropy", in Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026), accepted, April 2026.
+
+1. Kazutoshi Shinoda, Nobukatsu Hojo, Kyosuke Nishida, Yoshihiro Yamazaki, Keita Suzuki, Hiroaki Sugiyama, Kuniko Saito, "Let's Put Ourselves in Sally's Shoes: Shoes-of-Others Prefilling Improves Theory of Mind in Large Language Models.", in Findings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 findings): pp. 95-109, March 2026.
 
 1. Sora Kadotani, Kosuke Nishida, Kyosuke Nishida: "[Learning from Hallucinations: Mitigating Hallucinations in LLMs via Internal Representation Intervention](https://aclanthology.org/2025.findings-ijcnlp.68)", in Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP findings 2025), December 2025.
 
