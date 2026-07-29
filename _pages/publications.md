@@ -154,6 +154,12 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## Preprints
 
+1. Ryota Tanaka, Taku Hasegawa, Kyosuke Nishida, "[CMDR: Contextual Multimodal Document Retrieval](https://arxiv.org/abs/2607.05927)", arXiv, 2607.05927, July 2027.
+
+1. Kazutoshi Shinoda, Kosuke Nishida, Kyosuke Nishida, "[Debiasing Reward Models via Causally Motivated Inference-Time Intervention](https://arxiv.org/abs/2604.27495)", arXiv, 2604.27495, April 2026.
+
+1. Haruka Kawasaki, Ryota Tanaka, Kyosuke Nishida, "[Responses Fall Short of Understanding: Revealing the Gap between Internal Representations and Responses in Visual Document Understanding](https://arxiv.org/abs/2604.04411)", arXiv, 2604.04411, April 2026.
+
 1. Sora Kadotani, Kosuke Nishida, Kyosuke Nishida, "[Can LLMs Detect Their Own Hallucinations?](https://arxiv.org/abs/2511.11087)", arXiv, 2511.11087, November 2025.
 
 1. Daiki Chijiwa, Taku Hasegawa, Kyosuke Nishida, Shin'ya Yamaguchi, Tomoya Ohba, Tamao Sakao, Susumu Takeuchi, "[Lossless Vocabulary Reduction for Auto-Regressive Language Models](https://arxiv.org/abs/2510.08102)", arXiv, 2510.08102, October 2025.
