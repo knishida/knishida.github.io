@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. 西田京介，新島有信, "大規模言語モデルの進化と知覚統合の展望", 第51回日本香粧品学会学術大会, 2026年6月.
-　　
+
 1. 西田京介，"tsuzumi 2: NTT. とAWS GPU サービスの活用", AWS Summit Japan 2026, 2026年6月.
 
 1. Kyosuke Nishida, "tsuzumi: Advanced and Sovereign Japanese LLM", Exhibitor Spot Talk, December 2025.
