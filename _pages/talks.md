@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. 西田京介，新島有信, "大規模言語モデルの進化と知覚統合の展望", 第51回日本香粧品学会学術大会, 2026年6月.
+　　
+1. 西田京介，"tsuzumi 2: NTT. とAWS GPU サービスの活用", AWS Summit Japan 2026, 2026年6月.
+
 1. 西田京介, "tsuzumi 2が描く、AIビジネスの新地図 ～日本発LLMの挑戦と展望～", NTT R&Dフォーラム, 2025年11月.
 
 1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
