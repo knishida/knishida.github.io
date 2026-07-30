@@ -9,6 +9,8 @@ author_profile: true
 　　
 1. 西田京介，"tsuzumi 2: NTT. とAWS GPU サービスの活用", AWS Summit Japan 2026, 2026年6月.
 
+1. Kyosuke Nishida, "tsuzumi: Advanced and Sovereign Japanese LLM", Exhibitor Spot Talk, December 2025.
+   
 1. 西田京介, "tsuzumi 2が描く、AIビジネスの新地図 ～日本発LLMの挑戦と展望～", NTT R&Dフォーラム, 2025年11月.
 
 1. 西田京介, "tsuzumi 2: 進化したNTT版大規模言語モデル", weights and biases Fully Connected Tokyo 2025, 2025年10月
