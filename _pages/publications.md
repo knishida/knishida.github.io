@@ -9,7 +9,7 @@ Links: [DBLP](https://dblp.uni-trier.de/pid/01/5962.html), [Google Scholar](http
 
 ## International Conference Papers
 
-1. Ryota Tanaka, Taku Hasegawa, Kyosuke Nishida: CMDR: Contextual Multimodal Document Retrieval, in Proceedings of the 19th European Conference on Computer Vision (CVPR 2026), accepted, September 2026.
+1. Ryota Tanaka, Taku Hasegawa, Kyosuke Nishida, "CMDR: Contextual Multimodal Document Retrieval", in Proceedings of the 19th European Conference on Computer Vision (CVPR 2026), accepted, September 2026.
 
 1. Kazutoshi Shinoda, Kosuke Nishida, Kyosuke Nishida, "[Debiasing Reward Models via Causally Motivated Inference-Time Intervention](https://aclanthology.org/2026.acl-long.1029/)", in Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), pp. 22474–22489, July 2026.
 
