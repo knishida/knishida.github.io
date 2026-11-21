@@ -272,6 +272,10 @@ Links: [CiNii](https://cir.nii.ac.jp/all?q=%E8%A5%BF%E7%94%B0%E4%BA%AC%E4%BB%8B)
 
 ## Others
 
+1. 西田光甫, 杉山弘晃, 風戸広史, 長谷川拓, 西田京介, "[tsuzumi: 国産大規模言語モデルの挑戦](https://doi.org/10.60249/26065002), NTT技術ジャーナル, Vol. 38, No. 6, 2026年6月.
+   
+1. 北条伸克, 水野沙希, 鈴木啓太, 山﨑善啓, 西田京介, "[tsuzumi orchestra search: 人、AI、システムをつなぐ検索](https://doi.org/10.60249/26065003)", NTT技術ジャーナル, Vol. 38, No. 6, 2026年6月.
+
 1. 西田京介, [特定分野の専門知識を持った高性能で低消費エネルギーのLLM、tsuzumi](https://doi.org/10.60249/24061101)",  NTT技術ジャーナル  Vol. 22 No. 8, 2024年8月.
 
 1. 清水健太郎, 西田光甫, 西田京介, "[NTT版LLM「tsuzumi」](https://doi.org/10.60249/24065001)", NTT技術ジャーナル  Vol. 22 No. 8, 2024年8月.
